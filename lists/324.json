@@ -1,0 +1,382 @@
+[
+  {
+    "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28
+  },
+  {
+    "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024
+  },
+  {
+    "address": "0xbe9f8c0d6f0fd7e46cdacca340747ea2f247991d",
+    "name": "Impermax",
+    "symbol": "ibex",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/impermax-2/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "impermax-2",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x286f34bf2384b38067709e2abb255aa16d79f0e5",
+    "name": "Onsen Token",
+    "symbol": "on",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/aegis-token-f7934368-2fb3-4091-9edc-39283e87f55d/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "aegis-token-f7934368-2fb3-4091-9edc-39283e87f55d",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4",
+    "name": "Bolt Token",
+    "symbol": "$bolt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bolt-token-023ba86e-eb38-41a1-8d32-8b48ecfcb2c7/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "bolt-token-023ba86e-eb38-41a1-8d32-8b48ecfcb2c7",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85",
+    "name": "Bullets",
+    "symbol": "blt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bullets/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "bullets",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x08f328c72a9b420b7568415ed331a1c236e6f620",
+    "name": "Cheems Token",
+    "symbol": "cheems",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cheems-token/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "cheems-token",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xcffec2c683762831d16a9c5b9c70ba1789bba1f3",
+    "name": "Doge Farm",
+    "symbol": "dof",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/doge-farm/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "doge-farm",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x2b64237277c605d07f17b96f9627712340c32981",
+    "name": "GemSwap",
+    "symbol": "zgem",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gemswap-2/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "gemswap-2",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x6d27b6252b980ba4350a1e349a3b684237d5e986",
+    "name": "Hush.cash",
+    "symbol": "hush",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hush-cash/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "hush-cash",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x16a9494e257703797d747540f01683952547ee5b",
+    "name": "iZUMi Finance",
+    "symbol": "izi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/izumi-finance/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "izumi-finance",
+    "coingeckoRank": 3352
+  },
+  {
+    "address": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305",
+    "name": "Metavault Trade",
+    "symbol": "mvx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/metavault-trade/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "metavault-trade",
+    "coingeckoRank": 1753
+  },
+  {
+    "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
+    "name": "Mute",
+    "symbol": "mute",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mute/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "mute",
+    "coingeckoRank": 2138
+  },
+  {
+    "address": "0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa",
+    "name": "Onchain Trade",
+    "symbol": "ot",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/onchain-trade/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "onchain-trade",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x60143f39b54a731ac790708c8719211878e638c3",
+    "name": "Pepera",
+    "symbol": "pepera",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pepera/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "pepera",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x5f7cbcb391d33988dad74d6fd683aadda1123e4d",
+    "name": "ReactorFusion",
+    "symbol": "rf",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/reactorfusion/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "reactorfusion",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x533b5f887383196c6bc642f83338a69596465307",
+    "name": "Snark Launch",
+    "symbol": "$snrk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/snark-launch/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "snark-launch",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
+    "name": "SpaceFi",
+    "symbol": "space",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/spacefi/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "spacefi",
+    "coingeckoRank": 5912
+  },
+  {
+    "address": "0xf6d9a093a1c69a152d87e269a7d909e9d76b1815",
+    "name": "Superlauncher",
+    "symbol": "launch",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/superlauncher-dao/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "superlauncher-dao",
+    "coingeckoRank": 1720
+  },
+  {
+    "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+    "name": "Symbiosis Finance",
+    "symbol": "sis",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/symbiosis-finance/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "symbiosis-finance",
+    "coingeckoRank": 1708
+  },
+  {
+    "address": "0x3a34fa9a1288597ad6c1da709f001d37fef8b19e",
+    "name": "SyncDex",
+    "symbol": "sydx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/syncdex/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "syncdex",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
+    "name": "Overnight.fi USD+",
+    "symbol": "usd+",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd/small.png",
+    "chainId": 324,
+    "decimals": 6,
+    "coingeckoId": "usd",
+    "coingeckoRank": 1586
+  },
+  {
+    "address": "0x85d84c774cf8e9ff85342684b0e795df72a24908",
+    "name": "Velocore",
+    "symbol": "vc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/velocore/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "velocore",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xa4e4d9984366e74713737cb5d646bba0b7e070a4",
+    "name": "Waifu by Velocore",
+    "symbol": "waifu",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/velocore-waifu/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "velocore-waifu",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xc8ec5b0627c794de0e4ea5d97ad9a556b361d243",
+    "name": "Whisper",
+    "symbol": "wisp",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/whisper/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "whisper",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x47EF4A5641992A72CFd57b9406c9D9cefEE8e0C4",
+    "name": "zkApes Token",
+    "symbol": "zat",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkapes-token/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zkapes-token",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x8aaaf6e6167825829ab29f260f246afe742fb243",
+    "name": "zkCULT",
+    "symbol": "zcult",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkcult/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zkcult",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b",
+    "name": "zkDoge",
+    "symbol": "zkdoge",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkdoge/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zkdoge",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x8d266fa745b7cf3856af0c778828473b8d33a149",
+    "name": "zkFloki",
+    "symbol": "zfloki",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkfloki/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "zkfloki",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x45559297bdedf453e172833ac7086f7d03f6690b",
+    "name": "ZK inu",
+    "symbol": "$zkinu",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zk-inu/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zk-inu",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x959ab3394246669914bddeaeb50f8ac85648615e",
+    "name": "zkLaunchpad",
+    "symbol": "zkpad",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zklaunchpad/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zklaunchpad",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x94466dcfe241db963af1bc9741a94daa87ab2169",
+    "name": "zkLotto",
+    "symbol": "zklotto",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zklotto/small.png",
+    "chainId": 324,
+    "decimals": 6,
+    "coingeckoId": "zklotto",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x90eea899185105d583d04b7bdbfb672fce902a53",
+    "name": "ZKPepe",
+    "symbol": "zkpepe",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkpepe/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zkpepe",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x5e38cb3e6c0faafaa5c32c482864fcef5a0660ad",
+    "name": "zkShib",
+    "symbol": "zkshib",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zkshib/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "zkshib",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x41d8521e2f8fd1e575b76308a439f403c565bbd8",
+    "name": "zkSync id",
+    "symbol": "zkid",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zksync-id/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zksync-id",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x0231b3de40b6b3bdd28dcef037f1b7a3fcf5a95a",
+    "name": "Zynergy",
+    "symbol": "zyn",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zynergy/small.png",
+    "chainId": 324,
+    "decimals": 18,
+    "coingeckoId": "zynergy",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xecd9f240ed3895c77db676004328dd1d246f33c9",
+    "name": "Era Name Service",
+    "symbol": "era",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/era-name-service/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "era-name-service",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2",
+    "name": "HeartX Utility Token",
+    "symbol": "hnx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/heartx-utility-token/small.png",
+    "chainId": 324,
+    "decimals": null,
+    "coingeckoId": "heartx-utility-token",
+    "coingeckoRank": null
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "address": "0x51e44ffad5c2b122c8b635671fcc8139dc636e82",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28
+  },
+  {
+    "address": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8",
+    "name": "Frax",
+    "symbol": "frax",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/frax/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "frax",
+    "coingeckoRank": 571
+  },
+  {
+    "address": "0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c",
+    "name": "Frax Share",
+    "symbol": "fxs",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/frax-share/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "frax-share",
+    "coingeckoRank": 670
+  },
+  {
+    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+    "name": "Arable Protocol",
+    "symbol": "acre",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/arable-protocol/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "arable-protocol",
+    "coingeckoRank": 2714
+  },
+  {
+    "address": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
+    "name": "Axelar USDC",
+    "symbol": "axlusdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/axlusdc/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "axlusdc",
+    "coingeckoRank": 3853
+  },
+  {
+    "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
+    "name": "axlWBTC",
+    "symbol": "axlwbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/axlwbtc/small.png",
+    "chainId": 9001,
+    "decimals": 8,
+    "coingeckoId": "axlwbtc",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5",
+    "name": "axlWETH",
+    "symbol": "axlweth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/axlweth/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "axlweth",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x3f75ceabcdfed1aca03257dc6bdc0408e2b4b026",
+    "name": "Diffusion",
+    "symbol": "diff",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/diffusion/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "diffusion",
+    "coingeckoRank": 2664
+  },
+  {
+    "address": "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6",
+    "name": "Cosmos Hub",
+    "symbol": "atom",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cosmos/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "cosmos",
+    "coingeckoRank": 16
+  },
+  {
+    "address": "0x5db67696c3c088dfbf588d3dd849f44266ff0ffa",
+    "name": "e-Money EUR",
+    "symbol": "eeur",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/e-money-eur/small.png",
+    "chainId": 9001,
+    "decimals": null,
+    "coingeckoId": "e-money-eur",
+    "coingeckoRank": 433
+  },
+  {
+    "address": "0xd4949664cd82660aae99bedc034a0dea8a0bd517",
+    "name": "Evmos",
+    "symbol": "evmos",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/evmos/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "evmos",
+    "coingeckoRank": 110
+  },
+  {
+    "address": "0x47685b6ac7bb4de761a57828877a7b8254c8b145",
+    "name": "Evmos Domains",
+    "symbol": "evd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/evmos-domains/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "evmos-domains",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+    "name": "Graviton",
+    "symbol": "grav",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/graviton/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "graviton",
+    "coingeckoRank": 5257
+  },
+  {
+    "address": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
+    "name": "Gravity Bridge DAI",
+    "symbol": "g-dai",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gravity-bridge-dai/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "gravity-bridge-dai",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+    "name": "Gravity Bridge USDC",
+    "symbol": "g-usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gravity-bridge-usdc/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "gravity-bridge-usdc",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xc03345448969dd8c00e9e4a85d2d9722d093af8e",
+    "name": "Gravity Bridge WETH",
+    "symbol": "g-weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gravity-bridge-weth/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "gravity-bridge-weth",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x3452e23f9c4cc62c70b7adad699b264af3549c19",
+    "name": "JUNO",
+    "symbol": "juno",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/juno-network/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "juno-network",
+    "coingeckoRank": 503
+  },
+  {
+    "address": "0xfa3c22c069b9556a4b2f7ece1ee3b467909f4864",
+    "name": "Osmosis",
+    "symbol": "osmo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/osmosis/small.png",
+    "chainId": 9001,
+    "decimals": 6,
+    "coingeckoId": "osmosis",
+    "coingeckoRank": 77
+  },
+  {
+    "address": "0x0ce35b0d42608ca54eb7bcc8044f7087c18e7717",
+    "name": "Regen",
+    "symbol": "regen",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/regen/small.png",
+    "chainId": 9001,
+    "decimals": null,
+    "coingeckoId": "regen",
+    "coingeckoRank": 2007
+  },
+  {
+    "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
+    "name": "SpaceFi",
+    "symbol": "space",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/spacefi/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "spacefi",
+    "coingeckoRank": 5912
+  },
+  {
+    "address": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
+    "name": "Stargaze",
+    "symbol": "stars",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/stargaze/small.png",
+    "chainId": 9001,
+    "decimals": null,
+    "coingeckoId": "stargaze",
+    "coingeckoRank": 803
+  },
+  {
+    "address": "0xc8b4d3e67238e38b20d38908646ff6f4f48de5ec",
+    "name": "Stride Staked Atom",
+    "symbol": "statom",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/stride-staked-atom/small.png",
+    "chainId": 9001,
+    "decimals": null,
+    "coingeckoId": "stride-staked-atom",
+    "coingeckoRank": 1167
+  },
+  {
+    "address": "0x13974cf36984216c90d1f4fc815c156092fea396",
+    "name": "USK",
+    "symbol": "usk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usk/small.png",
+    "chainId": 9001,
+    "decimals": null,
+    "coingeckoId": "usk",
+    "coingeckoRank": 2869
+  },
+  {
+    "address": "0xb98e169c37ce30dd47fdad1f9726fb832191e60b",
+    "name": "Wrapped Bitcoin - Celer",
+    "symbol": "cewbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin-celer/small.png",
+    "chainId": 9001,
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin-celer",
+    "coingeckoRank": 7409
+  },
+  {
+    "address": "0x153a59d48aceabedbdcf7a13f67ae52b434b810b",
+    "name": "Wrapped Ether - Celer",
+    "symbol": "ceweth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-ether-celer/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "wrapped-ether-celer",
+    "coingeckoRank": 7474
+  },
+  {
+    "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+    "name": "Xen Crypto (EVMOS)",
+    "symbol": "coxen",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xen-crypto-evmos/small.png",
+    "chainId": 9001,
+    "decimals": 18,
+    "coingeckoId": "xen-crypto-evmos",
+    "coingeckoRank": null
+  }
+]

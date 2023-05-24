@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+    "name": "NFTmall",
+    "symbol": "gem",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/nftmall/small.png",
+    "chainId": 108,
+    "decimals": 18,
+    "coingeckoId": "nftmall",
+    "coingeckoRank": 3081
+  }
+]

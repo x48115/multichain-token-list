@@ -1,0 +1,122 @@
+[
+  {
+    "address": "xdc4826634fe187ed3ffb64d77c5c1a67ba49cc03de",
+    "name": "BlocksWorkz",
+    "symbol": "blkz",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/blocksworkz/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "blocksworkz",
+    "coingeckoRank": 6709
+  },
+  {
+    "address": "xdc8f9920283470f52128bf11b0c14e798be704fd15",
+    "name": "Comtech Gold",
+    "symbol": "cgo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/comtech-gold/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "comtech-gold",
+    "coingeckoRank": 966
+  },
+  {
+    "address": "xdc20b59e6c5deb7d7ced2ca823c6ca81dd3f7e9a3a",
+    "name": "DATACHAIN FOUNDATION",
+    "symbol": "dc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/datachain-foundation/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "datachain-foundation",
+    "coingeckoRank": 6809
+  },
+  {
+    "address": "xdc536dd70445cea1e97f9bf1bada04cbda5199a2a1",
+    "name": "Ecoin",
+    "symbol": "ecoin",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ecoin-2/small.png",
+    "chainId": 50,
+    "decimals": 10,
+    "coingeckoId": "ecoin-2",
+    "coingeckoRank": 3482
+  },
+  {
+    "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
+    "name": "Globiance Exchange",
+    "symbol": "gbex",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/globiance-exchange/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "globiance-exchange",
+    "coingeckoRank": 1703
+  },
+  {
+    "address": "xdc54051d9dbe99687867090d95fe15c3d3e35512ba",
+    "name": "IceCreamSwap",
+    "symbol": "ice",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/icecream/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "icecream",
+    "coingeckoRank": 7047
+  },
+  {
+    "address": "xdc05940b2df33d6371201e7ae099ced4c363855dfe",
+    "name": "Law Blocks",
+    "symbol": "lbt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/law-blocks/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "law-blocks",
+    "coingeckoRank": 1859
+  },
+  {
+    "address": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
+    "name": "Prime Numbers Ecosystem",
+    "symbol": "prnt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/prime-numbers/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "prime-numbers",
+    "coingeckoRank": 4884
+  },
+  {
+    "address": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+    "name": "StorX",
+    "symbol": "srx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/storx/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "storx",
+    "coingeckoRank": 1615
+  },
+  {
+    "address": "xdc951857744785e80e2de051c32ee7b25f9c458c42",
+    "name": "Wrapped XDC",
+    "symbol": "wxdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-xdc/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "wrapped-xdc",
+    "coingeckoRank": null
+  },
+  {
+    "address": "xdc36726235dadbdb4658d33e62a249dca7c4b2bc68",
+    "name": "XSwap Protocol",
+    "symbol": "xsp",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xswap-protocol/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "xswap-protocol",
+    "coingeckoRank": 2507
+  },
+  {
+    "address": "xdc17476dc3eda45ad916ceaddea325b240a7fb259d",
+    "name": "XSwap Treasure",
+    "symbol": "xtt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xswap-treasure/small.png",
+    "chainId": 50,
+    "decimals": 18,
+    "coingeckoId": "xswap-treasure",
+    "coingeckoRank": null
+  }
+]

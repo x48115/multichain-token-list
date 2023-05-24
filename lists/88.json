@@ -1,0 +1,122 @@
+[
+  {
+    "address": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
+    "chainId": 88,
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28
+  },
+  {
+    "address": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024
+  },
+  {
+    "address": "0x381b31409e4d220919b2cff012ed94d70135a59e",
+    "name": "Tether",
+    "symbol": "usdt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
+    "chainId": 88,
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "coingeckoRank": 150
+  },
+  {
+    "address": "0x503b2ddc059b81788fd1239561596614b27faade",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
+    "chainId": 88,
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "coingeckoRank": 414
+  },
+  {
+    "address": "0x33fa3c0c714638f12339f85dae89c42042a2d9af",
+    "name": "FTX",
+    "symbol": "ftt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ftx-token/small.png",
+    "chainId": 88,
+    "decimals": 17,
+    "coingeckoId": "ftx-token",
+    "coingeckoRank": 410
+  },
+  {
+    "address": "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74",
+    "name": "LuaSwap",
+    "symbol": "lua",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lua-token/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "lua-token",
+    "coingeckoRank": 2460
+  },
+  {
+    "address": "0xea478716a70dc086707e23de17965acb5c7b7840",
+    "name": "MASQ",
+    "symbol": "masq",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/masq/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "masq",
+    "coingeckoRank": 2313
+  },
+  {
+    "address": "0x0f320856fa4bc7e4030a6ab989d494c5e4d58308",
+    "name": "Million",
+    "symbol": "mm",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/million/small.png",
+    "chainId": 88,
+    "decimals": 17,
+    "coingeckoId": "million",
+    "coingeckoRank": 1480
+  },
+  {
+    "address": "0xc01643ac912b6a8ffc50cf8c1390934a6142bc91",
+    "name": "Serum",
+    "symbol": "srm",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/serum/small.png",
+    "chainId": 88,
+    "decimals": 4,
+    "coingeckoId": "serum",
+    "coingeckoRank": 555
+  },
+  {
+    "address": "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd",
+    "name": "Tabank",
+    "symbol": "tab",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tabank/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "tabank",
+    "coingeckoRank": 2831
+  },
+  {
+    "address": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+    "name": "Wrapped TOMO",
+    "symbol": "wtomo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-tomo/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "wrapped-tomo",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xe1a9a5fae06696d314994a9d6915c12a63ad055d",
+    "name": "ZoidPay",
+    "symbol": "zpay",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/zoid-pay/small.png",
+    "chainId": 88,
+    "decimals": 18,
+    "coingeckoId": "zoid-pay",
+    "coingeckoRank": 1816
+  }
+]

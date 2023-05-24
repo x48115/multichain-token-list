@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
+    "name": "Empire Network",
+    "symbol": "empire",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/empire-network/small.png",
+    "chainId": 3693,
+    "decimals": 18,
+    "coingeckoId": "empire-network",
+    "coingeckoRank": null
+  }
+]

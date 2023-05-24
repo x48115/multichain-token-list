@@ -1,0 +1,92 @@
+[
+  {
+    "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
+    "chainId": 82,
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28
+  },
+  {
+    "address": "0x79a61d3a28f8c8537a3df63092927cfa1150fb3c",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024
+  },
+  {
+    "address": "0x5fa41671c48e3c951afc30816947126ccc8c162e",
+    "name": "Tether",
+    "symbol": "usdt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
+    "chainId": 82,
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "coingeckoRank": 150
+  },
+  {
+    "address": "0xc1f6c86abee8e2e0b6fd5bd80f0b51fef783635c",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
+    "chainId": 82,
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "coingeckoRank": 414
+  },
+  {
+    "address": "0x24aa189dfaa76c671c279262f94434770f557c35",
+    "name": "Binance USD",
+    "symbol": "busd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/binance-usd/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "binance-usd",
+    "coingeckoRank": 188
+  },
+  {
+    "address": "0xf8bbb44e6fd13632d36fe09eb61820f9a44f5d74",
+    "name": "Wrapped BNB",
+    "symbol": "wbnb",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "wbnb",
+    "coingeckoRank": 2975
+  },
+  {
+    "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
+    "name": "Meter Governance",
+    "symbol": "mtrg",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/meter/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "meter",
+    "coingeckoRank": 1023
+  },
+  {
+    "address": "0xb158870beb809ad955bf56065c5c10d7fd957cc0",
+    "name": "Moonriver",
+    "symbol": "movr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moonriver/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "moonriver",
+    "coingeckoRank": 53
+  },
+  {
+    "address": "0x8df95e66cb0ef38f91d2776da3c921768982fba0",
+    "name": "VoltSwap",
+    "symbol": "volt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/voltswap/small.png",
+    "chainId": 82,
+    "decimals": 18,
+    "coingeckoId": "voltswap",
+    "coingeckoRank": 5106
+  }
+]

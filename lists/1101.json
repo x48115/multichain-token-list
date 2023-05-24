@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
+    "chainId": 1101,
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28
+  },
+  {
+    "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 1101,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024
+  },
+  {
+    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+    "name": "Tether",
+    "symbol": "usdt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
+    "chainId": 1101,
+    "decimals": 6,
+    "coingeckoId": "tether",
+    "coingeckoRank": 150
+  },
+  {
+    "address": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c",
+    "name": "Antfarm Token",
+    "symbol": "atf",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/antfarm-token/small.png",
+    "chainId": 1101,
+    "decimals": 18,
+    "coingeckoId": "antfarm-token",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xb6a5ae40e79891e4deadad06c8a7ca47396df21c",
+    "name": "Carbify",
+    "symbol": "cby",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/carbify/small.png",
+    "chainId": 1101,
+    "decimals": 18,
+    "coingeckoId": "carbify",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
+    "name": "Wrapped Matic",
+    "symbol": "wmatic",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wmatic/small.png",
+    "chainId": 1101,
+    "decimals": 18,
+    "coingeckoId": "wmatic",
+    "coingeckoRank": 3111
+  }
+]

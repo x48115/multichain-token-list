@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x8e3c2b00efebb64a6b775c451197a9dba1077967",
+    "name": "Dice Kingdom",
+    "symbol": "dk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dice-kingdom/small.png",
+    "chainId": 96,
+    "decimals": 18,
+    "coingeckoId": "dice-kingdom",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x95013dcb6a561e6c003aed9c43fb8b64008aa361",
+    "name": "LUMI",
+    "symbol": "lumi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lumi/small.png",
+    "chainId": 96,
+    "decimals": 18,
+    "coingeckoId": "lumi",
+    "coingeckoRank": null
+  },
+  {
+    "address": "0x8debbb77e8a17cffcfc0c7f1f40308886edd3f9f",
+    "name": "YES Token",
+    "symbol": "yes",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yes-token/small.png",
+    "chainId": 96,
+    "decimals": 18,
+    "coingeckoId": "yes-token",
+    "coingeckoRank": null
+  }
+]
