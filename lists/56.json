@@ -3780,6 +3780,15 @@
     "decimals": 18
   },
   {
+    "id": "pomerium",
+    "address": "0x1dc5779ed65bcc1f0a42d654444fb0ce59d7783b",
+    "name": "Pomerium",
+    "symbol": "pmr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pomerium/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "covesting",
     "address": "0x0f237db17aa4e6de062e6f052bd9c805789b01c3",
     "name": "Covesting",
@@ -4426,6 +4435,15 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lovechain/small.png",
     "chainId": 56,
     "decimals": 8
+  },
+  {
+    "id": "slam-token",
+    "address": "0x000851476180bfc499ea68450a5327d21c9b050e",
+    "name": "Slam",
+    "symbol": "slam",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/slam-token/small.png",
+    "chainId": 56,
+    "decimals": 18
   },
   {
     "id": "elk-finance",
@@ -7002,6 +7020,15 @@
     "decimals": 18
   },
   {
+    "id": "ecoin-finance",
+    "address": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
+    "name": "Ecoin Finance",
+    "symbol": "ecoin",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ecoin-finance/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "mtg-token",
     "address": "0xf1b602fc211e3e2976ef44e4017b764a778197e0",
     "name": "MTG Token",
@@ -7279,6 +7306,15 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ndb/small.png",
     "chainId": 56,
     "decimals": 12
+  },
+  {
+    "id": "tanks",
+    "address": "0xd20738760aededa73f6cd91a3d357746e0283a0e",
+    "name": "Tanks",
+    "symbol": "tanks",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tanks/small.png",
+    "chainId": 56,
+    "decimals": 18
   },
   {
     "id": "denarius",
@@ -29995,5 +30031,23 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/blockrock/small.png",
     "chainId": 56,
     "decimals": 18
+  },
+  {
+    "id": "bhbd",
+    "address": "0x874966221020d6ac1aed0e2cfad9cbfee0ba713b",
+    "name": "bHBD",
+    "symbol": "bhbd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bhbd/small.png",
+    "chainId": 56,
+    "decimals": 3
+  },
+  {
+    "id": "bhive",
+    "address": "0x9faf07d1fbc130d698e227e50d1fb72657c0a342",
+    "name": "bHIVE",
+    "symbol": "bhive",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bhive/small.png",
+    "chainId": 56,
+    "decimals": 3
   }
 ]

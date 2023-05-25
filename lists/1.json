@@ -36484,5 +36484,32 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bware-infra/small.png",
     "chainId": 1,
     "decimals": 18
+  },
+  {
+    "id": "fren-nation",
+    "address": "0x43a8f41644a3f07818a43455b975d940ce16a3fa",
+    "name": "Fren Nation",
+    "symbol": "fren",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fren-nation/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "gmfam",
+    "address": "0xe9da5e227e3fa4fc933b5f540be021e7ecc3fd81",
+    "name": "GMFAM",
+    "symbol": "gmfam",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gmfam/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "suzuverse",
+    "address": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
+    "name": "Suzuverse",
+    "symbol": "sgt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/suzuverse/small.png",
+    "chainId": 1,
+    "decimals": 8
   }
 ]

@@ -36486,6 +36486,33 @@
     "decimals": 18
   },
   {
+    "id": "fren-nation",
+    "address": "0x43a8f41644a3f07818a43455b975d940ce16a3fa",
+    "name": "Fren Nation",
+    "symbol": "fren",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fren-nation/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "gmfam",
+    "address": "0xe9da5e227e3fa4fc933b5f540be021e7ecc3fd81",
+    "name": "GMFAM",
+    "symbol": "gmfam",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gmfam/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "suzuverse",
+    "address": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
+    "name": "Suzuverse",
+    "symbol": "sgt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/suzuverse/small.png",
+    "chainId": 1,
+    "decimals": 8
+  },
+  {
     "id": "tether",
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
     "name": "Tether",
@@ -42156,6 +42183,15 @@
     "decimals": 18
   },
   {
+    "id": "pomerium",
+    "address": "0x1dc5779ed65bcc1f0a42d654444fb0ce59d7783b",
+    "name": "Pomerium",
+    "symbol": "pmr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pomerium/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "covesting",
     "address": "0x0f237db17aa4e6de062e6f052bd9c805789b01c3",
     "name": "Covesting",
@@ -42802,6 +42838,15 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lovechain/small.png",
     "chainId": 56,
     "decimals": 8
+  },
+  {
+    "id": "slam-token",
+    "address": "0x000851476180bfc499ea68450a5327d21c9b050e",
+    "name": "Slam",
+    "symbol": "slam",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/slam-token/small.png",
+    "chainId": 56,
+    "decimals": 18
   },
   {
     "id": "elk-finance",
@@ -45378,6 +45423,15 @@
     "decimals": 18
   },
   {
+    "id": "ecoin-finance",
+    "address": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
+    "name": "Ecoin Finance",
+    "symbol": "ecoin",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ecoin-finance/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "mtg-token",
     "address": "0xf1b602fc211e3e2976ef44e4017b764a778197e0",
     "name": "MTG Token",
@@ -45655,6 +45709,15 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ndb/small.png",
     "chainId": 56,
     "decimals": 12
+  },
+  {
+    "id": "tanks",
+    "address": "0xd20738760aededa73f6cd91a3d357746e0283a0e",
+    "name": "Tanks",
+    "symbol": "tanks",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tanks/small.png",
+    "chainId": 56,
+    "decimals": 18
   },
   {
     "id": "denarius",
@@ -68373,6 +68436,24 @@
     "decimals": 18
   },
   {
+    "id": "bhbd",
+    "address": "0x874966221020d6ac1aed0e2cfad9cbfee0ba713b",
+    "name": "bHBD",
+    "symbol": "bhbd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bhbd/small.png",
+    "chainId": 56,
+    "decimals": 3
+  },
+  {
+    "id": "bhive",
+    "address": "0x9faf07d1fbc130d698e227e50d1fb72657c0a342",
+    "name": "bHIVE",
+    "symbol": "bhive",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bhive/small.png",
+    "chainId": 56,
+    "decimals": 3
+  },
+  {
     "id": "tether",
     "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
     "name": "Tether",
@@ -88295,6 +88376,15 @@
     "name": "Kewl",
     "symbol": "kewl",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kewl/small.png",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "id": "mayfair",
+    "address": "0xf9df075716b2d9b95616341dc6bc64c85e56645c",
+    "name": "Mayfair",
+    "symbol": "may",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mayfair/small.png",
     "chainId": 42161,
     "decimals": 18
   },

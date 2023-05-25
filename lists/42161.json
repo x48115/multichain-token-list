@@ -4003,5 +4003,14 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kewl/small.png",
     "chainId": 42161,
     "decimals": 18
+  },
+  {
+    "id": "mayfair",
+    "address": "0xf9df075716b2d9b95616341dc6bc64c85e56645c",
+    "name": "Mayfair",
+    "symbol": "may",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mayfair/small.png",
+    "chainId": 42161,
+    "decimals": 18
   }
 ]
