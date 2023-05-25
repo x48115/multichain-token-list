@@ -1,46 +1,38 @@
 [
   {
+    "id": "wbnb",
     "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
     "name": "Wrapped BNB",
     "symbol": "wbnb",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
     "chainId": 8545,
-    "decimals": 18,
-    "coingeckoId": "wbnb",
-    "coingeckoRank": 2975,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "jpy-coin",
     "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
     "name": "JPY Coin",
     "symbol": "jpyc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpy-coin/small.png",
     "chainId": 8545,
-    "decimals": 18,
-    "coingeckoId": "jpy-coin",
-    "coingeckoRank": 5073,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-shiden-network",
     "address": "0x0f933dc137d21ca519ae4c7e93f87a4c8ef365ef",
     "name": "Wrapped Shiden Network",
     "symbol": "sdn",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-shiden-network/small.png",
     "chainId": 8545,
-    "decimals": null,
-    "coingeckoId": "wrapped-shiden-network",
-    "coingeckoRank": 5399,
-    "marketCapRank": null
+    "decimals": null
   },
   {
+    "id": "jpyc",
     "address": "0x735abe48e8782948a37c7765ecb76b98cde97b0f",
     "name": "JPY Coin v1",
     "symbol": "jpyc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpyc/small.png",
     "chainId": 8545,
-    "decimals": 18,
-    "coingeckoId": "jpyc",
-    "coingeckoRank": 6292,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

@@ -1,222 +1,182 @@
 [
   {
+    "id": "tether",
     "address": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 7700,
-    "decimals": 6,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 6
   },
   {
+    "id": "usd-coin",
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
     "name": "USD Coin",
     "symbol": "usdc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 7700,
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28,
-    "marketCapRank": 5
+    "decimals": 6
   },
   {
+    "id": "cosmos",
     "address": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
     "name": "Cosmos Hub",
     "symbol": "atom",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cosmos/small.png",
     "chainId": 7700,
-    "decimals": 6,
-    "coingeckoId": "cosmos",
-    "coingeckoRank": 16,
-    "marketCapRank": 23
+    "decimals": 6
   },
   {
+    "id": "canto",
     "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
     "name": "CANTO",
     "symbol": "canto",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/canto/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "canto",
-    "coingeckoRank": 875,
-    "marketCapRank": 317
+    "decimals": 18
   },
   {
+    "id": "velocimeter-flow",
     "address": "0xb5b060055f0d1ef5174329913ef861bc3addf029",
     "name": "Velocimeter FLOW",
     "symbol": "flow",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/velocimeter-flow/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "velocimeter-flow",
-    "coingeckoRank": null,
-    "marketCapRank": 2336
+    "decimals": 18
   },
   {
+    "id": "weth",
     "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
     "name": "WETH",
     "symbol": "weth",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "note",
     "address": "0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503",
     "name": "Note",
     "symbol": "note",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/note/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "note",
-    "coingeckoRank": 3371,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "canto-inu",
     "address": "0x7264610a66eca758a8ce95cf11ff5741e1fd0455",
     "name": "Canto Inu",
     "symbol": "cinu",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/canto-inu/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "canto-inu",
-    "coingeckoRank": 6921,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "impermax-2",
     "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
     "name": "Impermax",
     "symbol": "ibex",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/impermax-2/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "impermax-2",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cantobelieve",
     "address": "0xc5b47a30f3e52aee781e5c6dcdf13de456814592",
     "name": "CantoBelieve",
     "symbol": "believe",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cantobelieve/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "cantobelieve",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cantobonk",
     "address": "0x38d11b40d2173009adb245b869e90525950ae345",
     "name": "CantoBonk",
     "symbol": "cbonk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cantobonk/small.png",
     "chainId": 7700,
-    "decimals": 9,
-    "coingeckoId": "cantobonk",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "canto-crabs-chip",
     "address": "0xf567ce29547a97c9f5ca3daf693f7e900877fff4",
     "name": "Canto Crabs Chip",
     "symbol": "crab",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/canto-crabs-chip/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "canto-crabs-chip",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cantohm",
     "address": "0x533c0f08be45eaac821392b85e67fb0c7dc2cab7",
     "name": "CantOHM",
     "symbol": "cohm",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cantohm/small.png",
     "chainId": 7700,
-    "decimals": 9,
-    "coingeckoId": "cantohm",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "canto-shib",
     "address": "0xa025ced4aab666c1bbbfd5a224816705b438e50b",
     "name": "Canto Shib",
     "symbol": "cshib",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/canto-shib/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "canto-shib",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cantosino-com-profit-pass",
     "address": "0x09888c3a374ae99e271e1d8e7d9bb63738bffc87",
     "name": "Cantosino.com Profit Pass",
     "symbol": "cpp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cantosino-com-profit-pass/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "cantosino-com-profit-pass",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "liquid-staked-canto",
     "address": "0x9f823d534954fc119e31257b3ddba0db9e2ff4ed",
     "name": "Liquid Staked Canto",
     "symbol": "scanto",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/liquid-staked-canto/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "liquid-staked-canto",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "matrix-533ba916-8d8a-4979-b5d5-34483cdee5b1",
     "address": "0x8b6e422f7ef6c5dcc0ad0c3dea66efacbb2b78e3",
     "name": "Matrix",
     "symbol": "matrix",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/matrix-533ba916-8d8a-4979-b5d5-34483cdee5b1/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "matrix-533ba916-8d8a-4979-b5d5-34483cdee5b1",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "multibtc",
     "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
     "name": "MultiBTC",
     "symbol": "multibtc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/multibtc/small.png",
     "chainId": 7700,
-    "decimals": 5,
-    "coingeckoId": "multibtc",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 5
   },
   {
+    "id": "scanto-blotr",
     "address": "0xff0baf077e8035a3da0dd2abececfbd98d8e63be",
     "name": "sCANTO BLOTR",
     "symbol": "blotr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/scanto-blotr/small.png",
     "chainId": 7700,
-    "decimals": 18,
-    "coingeckoId": "scanto-blotr",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "sino",
     "address": "0xf2399c47d8631703b8f001caac936325181f892d",
     "name": "Cantosino.com",
     "symbol": "sino",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/sino/small.png",
     "chainId": 7700,
-    "decimals": 15,
-    "coingeckoId": "sino",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 15
   }
 ]

@@ -1,13 +1,11 @@
 [
   {
+    "id": "pundi-x-purse",
     "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
     "name": "Pundi X PURSE",
     "symbol": "purse",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pundi-x-purse/small.png",
     "chainId": 530,
-    "decimals": 18,
-    "coingeckoId": "pundi-x-purse",
-    "coingeckoRank": 6741,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

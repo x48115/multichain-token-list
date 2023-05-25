@@ -1,24 +1,20 @@
 [
   {
+    "id": "hydro",
     "address": "0x946112efab61c3636cbd52de2e1392d7a75a6f01",
     "name": "Hydro",
     "symbol": "hydro",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hydro/small.png",
     "chainId": 52,
-    "decimals": 18,
-    "coingeckoId": "hydro",
-    "coingeckoRank": 1781,
-    "marketCapRank": 2931
+    "decimals": 18
   },
   {
+    "id": "france-rev-finance",
     "address": "0x99083d1b9c6744c71d0cf70b8965faca37684527",
     "name": "FRANCE REV FINANCE",
     "symbol": "frf",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/france-rev-finance/small.png",
     "chainId": 52,
-    "decimals": 18,
-    "coingeckoId": "france-rev-finance",
-    "coingeckoRank": 6584,
-    "marketCapRank": 3074
+    "decimals": 18
   }
 ]

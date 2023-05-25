@@ -1,123 +1,101 @@
 [
   {
+    "id": "tether",
     "address": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 288,
-    "decimals": 6,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 6
   },
   {
+    "id": "usd-coin",
     "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
     "name": "USD Coin",
     "symbol": "usdc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 288,
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28,
-    "marketCapRank": 5
+    "decimals": 6
   },
   {
+    "id": "wrapped-bitcoin",
     "address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
     "name": "Wrapped Bitcoin",
     "symbol": "wbtc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
     "chainId": 288,
-    "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414,
-    "marketCapRank": 19
+    "decimals": 8
   },
   {
+    "id": "omisego",
     "address": "0xe1e2ec9a85c607092668789581251115bcbd20de",
     "name": "OMG Network",
     "symbol": "omg",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/omisego/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "omisego",
-    "coingeckoRank": 74,
-    "marketCapRank": 253
+    "decimals": 18
   },
   {
+    "id": "boba-network",
     "address": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
     "name": "Boba Network",
     "symbol": "boba",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/boba-network/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "boba-network",
-    "coingeckoRank": 793,
-    "marketCapRank": 391
+    "decimals": 18
   },
   {
+    "id": "mimatic",
     "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
     "name": "MAI",
     "symbol": "mimatic",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
     "chainId": 288,
-    "decimals": null,
-    "coingeckoId": "mimatic",
-    "coingeckoRank": 1056,
-    "marketCapRank": 493
+    "decimals": null
   },
   {
+    "id": "unidex",
     "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
     "name": "UniDex",
     "symbol": "unidx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/unidex/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "unidex",
-    "coingeckoRank": 2347,
-    "marketCapRank": 774
+    "decimals": 18
   },
   {
+    "id": "across-protocol",
     "address": "0x96821b258955587069f680729cd77369c0892b40",
     "name": "Across Protocol",
     "symbol": "acx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/across-protocol/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "across-protocol",
-    "coingeckoRank": null,
-    "marketCapRank": 1004
+    "decimals": 18
   },
   {
+    "id": "oolongswap",
     "address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
     "name": "OolongSwap",
     "symbol": "olo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oolongswap/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "oolongswap",
-    "coingeckoRank": 2671,
-    "marketCapRank": 2505
+    "decimals": 18
   },
   {
+    "id": "weth",
     "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
     "name": "WETH",
     "symbol": "weth",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "boba-brewery",
     "address": "0x3a93bd0fa10050d206370eea53276542a105c885",
     "name": "Boba Brewery",
     "symbol": "bre",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/boba-brewery/small.png",
     "chainId": 288,
-    "decimals": 18,
-    "coingeckoId": "boba-brewery",
-    "coingeckoRank": 5501,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

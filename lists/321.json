@@ -1,167 +1,137 @@
 [
   {
+    "id": "tether",
     "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 18
   },
   {
+    "id": "usd-coin",
     "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
     "name": "USD Coin",
     "symbol": "usdc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28,
-    "marketCapRank": 5
+    "decimals": 18
   },
   {
+    "id": "playzap",
     "address": "0x22648c12acd87912ea1710357b1302c6a4154ebc",
     "name": "PlayZap",
     "symbol": "pzp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/playzap/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "playzap",
-    "coingeckoRank": 6004,
-    "marketCapRank": 2472
+    "decimals": 18
   },
   {
+    "id": "kuswap",
     "address": "0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14",
     "name": "KuSwap",
     "symbol": "kus",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kuswap/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "kuswap",
-    "coingeckoRank": 1758,
-    "marketCapRank": 2894
+    "decimals": 18
   },
   {
+    "id": "weth",
     "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
     "name": "WETH",
     "symbol": "weth",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "staked-kcs",
     "address": "0x00ee2d494258d6c5a30d6b6472a09b27121ef451",
     "name": "Staked KCS",
     "symbol": "skcs",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/staked-kcs/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "staked-kcs",
-    "coingeckoRank": 3148,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "pikaster",
     "address": "0x974e54266708292383c2989dca5fdbb115666d4f",
     "name": "Metaland Shares",
     "symbol": "mls",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pikaster/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "pikaster",
-    "coingeckoRank": 3201,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "mojitoswap",
     "address": "0x2ca48b4eea5a731c2b54e7c3944dbdb87c0cfb6f",
     "name": "MojitoSwap",
     "symbol": "mjt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mojitoswap/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "mojitoswap",
-    "coingeckoRank": 3836,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "super-rare-ball-shares",
     "address": "0x44deccb4e1d356418581b58956f9efc806e15e84",
     "name": "Super Rare Ball Potion",
     "symbol": "srbp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/super-rare-ball-shares/small.png",
     "chainId": 321,
-    "decimals": null,
-    "coingeckoId": "super-rare-ball-shares",
-    "coingeckoRank": 3853,
-    "marketCapRank": null
+    "decimals": null
   },
   {
+    "id": "kudoge",
     "address": "0x6665d66afa48f527d86623723342cfa258cb8666",
     "name": "KuDoge",
     "symbol": "kudo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kudoge/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "kudoge",
-    "coingeckoRank": 4243,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "rare-ball-shares",
     "address": "0x0293f1b44aa052e3c3f6fc6078276ed36268e182",
     "name": "Rare Ball Potion",
     "symbol": "rbp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/rare-ball-shares/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "rare-ball-shares",
-    "coingeckoRank": 4366,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-kcs",
     "address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
     "name": "Wrapped KCS",
     "symbol": "wkcs",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-kcs/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "wrapped-kcs",
-    "coingeckoRank": 4596,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "sax-token",
     "address": "0x8367b781316edb622db3847f863e610edf1f4a20",
     "name": "IdleStoneage SAX",
     "symbol": "sax",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/sax-token/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "sax-token",
-    "coingeckoRank": 5665,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "coolmining",
     "address": "0xd0f2e8cf77c1d3dcc4d2d03f99d959bb5ce496bf",
     "name": "CoolMining",
     "symbol": "cooha",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/coolmining/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "coolmining",
-    "coingeckoRank": 5858,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "bitcoin-br",
     "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
     "name": "Bitcoin BR",
     "symbol": "btcbr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
     "chainId": 321,
-    "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "coingeckoRank": 6349,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

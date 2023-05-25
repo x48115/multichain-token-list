@@ -1,332 +1,272 @@
 [
   {
+    "id": "tether",
     "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 1088,
-    "decimals": 6,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 6
   },
   {
+    "id": "usd-coin",
     "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
     "name": "USD Coin",
     "symbol": "usdc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 1088,
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28,
-    "marketCapRank": 5
+    "decimals": 6
   },
   {
+    "id": "dai",
     "address": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a",
     "name": "Dai",
     "symbol": "dai",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dai/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "dai",
-    "coingeckoRank": 165,
-    "marketCapRank": 18
+    "decimals": 18
   },
   {
+    "id": "wrapped-bitcoin",
     "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
     "name": "Wrapped Bitcoin",
     "symbol": "wbtc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414,
-    "marketCapRank": 19
+    "decimals": 18
   },
   {
+    "id": "metis-token",
     "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
     "name": "Metis",
     "symbol": "metis",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/metis-token/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "metis-token",
-    "coingeckoRank": 728,
-    "marketCapRank": 277
+    "decimals": 18
   },
   {
+    "id": "mimatic",
     "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
     "name": "MAI",
     "symbol": "mimatic",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "mimatic",
-    "coingeckoRank": 1056,
-    "marketCapRank": 493
+    "decimals": 18
   },
   {
+    "id": "beefy-finance",
     "address": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
     "name": "Beefy.Finance",
     "symbol": "bifi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "beefy-finance",
-    "coingeckoRank": 156,
-    "marketCapRank": 518
+    "decimals": 18
   },
   {
+    "id": "xcad-network",
     "address": "0x66673f0a3b5d99524ba76a558b93a9ca1386f4cd",
     "name": "XCAD Network",
     "symbol": "xcad",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xcad-network/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "xcad-network",
-    "coingeckoRank": 893,
-    "marketCapRank": 522
+    "decimals": 18
   },
   {
+    "id": "dexpools",
     "address": "0xa31848aa61f784cdbb6f74260d224a4356295799",
     "name": "Vela Exchange",
     "symbol": "dxp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dexpools/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "dexpools",
-    "coingeckoRank": 6808,
-    "marketCapRank": 699
+    "decimals": 18
   },
   {
+    "id": "unidex",
     "address": "0x9610b01aaa57ec026001f7ec5cface51bfea0ba6",
     "name": "UniDex",
     "symbol": "unidx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/unidex/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "unidex",
-    "coingeckoRank": 2347,
-    "marketCapRank": 774
+    "decimals": 18
   },
   {
+    "id": "hera-finance",
     "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
     "name": "Hera Finance",
     "symbol": "hera",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hera-finance/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "hera-finance",
-    "coingeckoRank": 2782,
-    "marketCapRank": 985
+    "decimals": 18
   },
   {
+    "id": "tethys-finance",
     "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
     "name": "Tethys Finance",
     "symbol": "tethys",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tethys-finance/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "tethys-finance",
-    "coingeckoRank": 2679,
-    "marketCapRank": 1588
+    "decimals": 18
   },
   {
+    "id": "hermes-protocol",
     "address": "0xb27bbeaaca2c00d6258c3118bab6b5b6975161c8",
     "name": "Hermes Protocol",
     "symbol": "hermes",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hermes-protocol/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "hermes-protocol",
-    "coingeckoRank": 2179,
-    "marketCapRank": 1628
+    "decimals": 18
   },
   {
+    "id": "hummus",
     "address": "0x4aac94985cd83be30164dfe7e9af7c054d7d2121",
     "name": "Hummus",
     "symbol": "hum",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hummus/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "hummus",
-    "coingeckoRank": 2851,
-    "marketCapRank": 1761
+    "decimals": 18
   },
   {
+    "id": "netswap",
     "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
     "name": "Netswap",
     "symbol": "nett",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/netswap/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "netswap",
-    "coingeckoRank": 2615,
-    "marketCapRank": 1991
+    "decimals": 18
   },
   {
+    "id": "relay-token",
     "address": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4",
     "name": "Relay Chain",
     "symbol": "relay",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/relay-token/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "relay-token",
-    "coingeckoRank": 2647,
-    "marketCapRank": 2085
+    "decimals": 18
   },
   {
+    "id": "revenant",
     "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
     "name": "Revenant",
     "symbol": "gamefi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/revenant/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "revenant",
-    "coingeckoRank": 5026,
-    "marketCapRank": 2219
+    "decimals": 18
   },
   {
+    "id": "aerarium-fi",
     "address": "0xfe540d6dbad8c68928778aaf2be828efa4b44fa2",
     "name": "Aerarium Fi",
     "symbol": "aera",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/aerarium-fi/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "aerarium-fi",
-    "coingeckoRank": 3193,
-    "marketCapRank": 2460
+    "decimals": 18
   },
   {
+    "id": "bios",
     "address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
     "name": "0x_nodes",
     "symbol": "bios",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bios/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "bios",
-    "coingeckoRank": 2967,
-    "marketCapRank": 3006
+    "decimals": 18
   },
   {
+    "id": "wowswap",
     "address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
     "name": "WOWswap",
     "symbol": "wow",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wowswap/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "wowswap",
-    "coingeckoRank": 2957,
-    "marketCapRank": 3192
+    "decimals": 18
   },
   {
+    "id": "agora-defi",
     "address": "0x0ed0ca6872073e02cd3ae005baf04ba43be947fa",
     "name": "Agora Defi",
     "symbol": "agora",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/agora-defi/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "agora-defi",
-    "coingeckoRank": 3431,
-    "marketCapRank": 3496
+    "decimals": 18
   },
   {
+    "id": "weth",
     "address": "0x420000000000000000000000000000000000000a",
     "name": "WETH",
     "symbol": "weth",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "maia",
     "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd",
     "name": "Maia",
     "symbol": "maia",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/maia/small.png",
     "chainId": 1088,
-    "decimals": 9,
-    "coingeckoId": "maia",
-    "coingeckoRank": 5139,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "alium-finance",
     "address": "0x1581929770be3275a82068c1135b6dd59c5334ed",
     "name": "Alium Finance",
     "symbol": "alm",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/alium-finance/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "alium-finance",
-    "coingeckoRank": 5938,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "binarydao",
     "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
     "name": "BinaryDAO",
     "symbol": "byte",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/binarydao/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "binarydao",
-    "coingeckoRank": 6013,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "prometheus-token",
     "address": "0x259ef6776648500d7f1a8aba3651e38b1121e65e",
     "name": "Peak Finance Prometheus",
     "symbol": "pro",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/prometheus-token/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "prometheus-token",
-    "coingeckoRank": 6249,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "paper-fantom",
     "address": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
     "name": "Paper",
     "symbol": "paper",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/paper-fantom/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "paper-fantom",
-    "coingeckoRank": 6815,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "andronodes",
     "address": "0x12e9a12dbb312c43b0160fdb479b753685747442",
     "name": "AndroNodes",
     "symbol": "andro",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/andronodes/small.png",
     "chainId": 1088,
-    "decimals": null,
-    "coingeckoId": "andronodes",
-    "coingeckoRank": 6854,
-    "marketCapRank": null
+    "decimals": null
   },
   {
+    "id": "poseidon-finance",
     "address": "0x1b33020a1db9f1762f98635b9ac6fb4c36122649",
     "name": "Poseidon Finance",
     "symbol": "psdn",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/poseidon-finance/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "poseidon-finance",
-    "coingeckoRank": 7139,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "monkex",
     "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
     "name": "Monkex",
     "symbol": "monkex",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/monkex/small.png",
     "chainId": 1088,
-    "decimals": 18,
-    "coingeckoId": "monkex",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

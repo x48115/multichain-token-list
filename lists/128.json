@@ -1,860 +1,704 @@
 [
   {
+    "id": "tether",
     "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 18
   },
   {
+    "id": "uniswap",
     "address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
     "name": "Uniswap",
     "symbol": "uni",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/uniswap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "uniswap",
-    "coingeckoRank": 180,
-    "marketCapRank": 20
+    "decimals": 18
   },
   {
+    "id": "chainlink",
     "address": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
     "name": "Chainlink",
     "symbol": "link",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/chainlink/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "chainlink",
-    "coingeckoRank": 8,
-    "marketCapRank": 21
+    "decimals": 18
   },
   {
+    "id": "aave",
     "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
     "name": "Aave",
     "symbol": "aave",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/aave/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "aave",
-    "coingeckoRank": 70,
-    "marketCapRank": 52
+    "decimals": 18
   },
   {
+    "id": "havven",
     "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
     "name": "Synthetix Network",
     "symbol": "snx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/havven/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "havven",
-    "coingeckoRank": 41,
-    "marketCapRank": 61
+    "decimals": 18
   },
   {
+    "id": "woo-network",
     "address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
     "name": "WOO Network",
     "symbol": "woo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/woo-network/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "woo-network",
-    "coingeckoRank": 625,
-    "marketCapRank": 108
+    "decimals": 18
   },
   {
+    "id": "huobi-btc",
     "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
     "name": "Huobi BTC",
     "symbol": "hbtc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-btc/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-btc",
-    "coingeckoRank": 980,
-    "marketCapRank": 142
+    "decimals": 18
   },
   {
+    "id": "balancer",
     "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
     "name": "Balancer",
     "symbol": "bal",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/balancer/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "balancer",
-    "coingeckoRank": 166,
-    "marketCapRank": 163
+    "decimals": 18
   },
   {
+    "id": "yearn-finance",
     "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
     "name": "yearn.finance",
     "symbol": "yfi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yearn-finance/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "yearn-finance",
-    "coingeckoRank": 102,
-    "marketCapRank": 167
+    "decimals": 18
   },
   {
+    "id": "mdex",
     "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
     "name": "Mdex (HECO)",
     "symbol": "mdx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mdex/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "mdex",
-    "coingeckoRank": 705,
-    "marketCapRank": 379
+    "decimals": 18
   },
   {
+    "id": "token-pocket",
     "address": "0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b",
     "name": "TokenPocket Token",
     "symbol": "tpt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/token-pocket/small.png",
     "chainId": 128,
-    "decimals": 4,
-    "coingeckoId": "token-pocket",
-    "coingeckoRank": 1713,
-    "marketCapRank": 508
+    "decimals": 4
   },
   {
+    "id": "beefy-finance",
     "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
     "name": "Beefy.Finance",
     "symbol": "bifi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "beefy-finance",
-    "coingeckoRank": 156,
-    "marketCapRank": 518
+    "decimals": 18
   },
   {
+    "id": "fsn",
     "address": "0xa790b07796abed3cdaf81701b4535014bf5e1a65",
     "name": "FUSION",
     "symbol": "fsn",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fsn/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "fsn",
-    "coingeckoRank": 468,
-    "marketCapRank": 632
+    "decimals": 18
   },
   {
+    "id": "elastos",
     "address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
     "name": "Elastos",
     "symbol": "ela",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/elastos/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "elastos",
-    "coingeckoRank": 237,
-    "marketCapRank": 636
+    "decimals": 18
   },
   {
+    "id": "husd",
     "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
     "name": "HUSD",
     "symbol": "husd",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/husd/small.png",
     "chainId": 128,
-    "decimals": 8,
-    "coingeckoId": "husd",
-    "coingeckoRank": 1015,
-    "marketCapRank": 958
+    "decimals": 8
   },
   {
+    "id": "minto",
     "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
     "name": "Minto",
     "symbol": "btcmt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/minto/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "minto",
-    "coingeckoRank": 1641,
-    "marketCapRank": 1315
+    "decimals": 18
   },
   {
+    "id": "tigercash",
     "address": "0x5ecc4b299e23f526980c33fe35eff531a54aedb1",
     "name": "TigerCash",
     "symbol": "tch",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tigercash/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "tigercash",
-    "coingeckoRank": 897,
-    "marketCapRank": 1405
+    "decimals": 18
   },
   {
+    "id": "deri-protocol",
     "address": "0x2bda3e331cf735d9420e41567ab843441980c4b8",
     "name": "Deri Protocol",
     "symbol": "deri",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/deri-protocol/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "deri-protocol",
-    "coingeckoRank": 2021,
-    "marketCapRank": 1609
+    "decimals": 18
   },
   {
+    "id": "xend-finance",
     "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
     "name": "Xend Finance",
     "symbol": "xend",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xend-finance/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "xend-finance",
-    "coingeckoRank": 1082,
-    "marketCapRank": 1657
+    "decimals": 18
   },
   {
+    "id": "o3-swap",
     "address": "0xee9801669c6138e84bd50deb500827b776777d28",
     "name": "O3 Swap",
     "symbol": "o3",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/o3-swap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "o3-swap",
-    "coingeckoRank": 1209,
-    "marketCapRank": 1705
+    "decimals": 18
   },
   {
+    "id": "dxsale-network",
     "address": "0x2665375a48a76bb49f6b375844eb88390840c0b8",
     "name": "DxSale Network",
     "symbol": "sale",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dxsale-network/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "dxsale-network",
-    "coingeckoRank": 2583,
-    "marketCapRank": 2051
+    "decimals": 18
   },
   {
+    "id": "allbridge",
     "address": "0x2d7e64def6c3311a75c2f6eb45e835cd58e52cde",
     "name": "Allbridge",
     "symbol": "abr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/allbridge/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "allbridge",
-    "coingeckoRank": 1552,
-    "marketCapRank": 2052
+    "decimals": 18
   },
   {
+    "id": "makiswap",
     "address": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
     "name": "MakiSwap",
     "symbol": "maki",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/makiswap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "makiswap",
-    "coingeckoRank": 2014,
-    "marketCapRank": 2188
+    "decimals": 18
   },
   {
+    "id": "cook",
     "address": "0x74189862b069e2be5f7c8e6ff08ea8e1b1948519",
     "name": "Cook",
     "symbol": "cook",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cook/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "cook",
-    "coingeckoRank": 1576,
-    "marketCapRank": 2378
+    "decimals": 18
   },
   {
+    "id": "channels",
     "address": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
     "name": "Channels",
     "symbol": "can",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/channels/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "channels",
-    "coingeckoRank": 2393,
-    "marketCapRank": 2896
+    "decimals": 18
   },
   {
+    "id": "gamyfi-token",
     "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
     "name": "GamyFi",
     "symbol": "gfx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/gamyfi-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "gamyfi-token",
-    "coingeckoRank": 3070,
-    "marketCapRank": 3008
+    "decimals": 18
   },
   {
+    "id": "wowswap",
     "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
     "name": "WOWswap",
     "symbol": "wow",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wowswap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "wowswap",
-    "coingeckoRank": 2957,
-    "marketCapRank": 3192
+    "decimals": 18
   },
   {
+    "id": "krown",
     "address": "0xa83e2a7bbfaeb064c7cfee416cdf5cf89507dd1a",
     "name": "KROWN",
     "symbol": "krw",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/krown/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "krown",
-    "coingeckoRank": 2046,
-    "marketCapRank": 3478
+    "decimals": 18
   },
   {
+    "id": "heco-peg-bnb",
     "address": "0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3",
     "name": "Heco-Peg Binance Coin",
     "symbol": "bnb",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/heco-peg-bnb/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "heco-peg-bnb",
-    "coingeckoRank": 2201,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "mimosa",
     "address": "0x1c65be80daf69e9c54cf23f8273f251e607e56a7",
     "name": "Mimosa",
     "symbol": "mimo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimosa/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "mimosa",
-    "coingeckoRank": 3464,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "bxh",
     "address": "0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
     "name": "BXH",
     "symbol": "bxh",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bxh/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "bxh",
-    "coingeckoRank": 3807,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "lendhub",
     "address": "0x8f67854497218043e1f72908ffe38d0ed7f24721",
     "name": "Lendhub",
     "symbol": "lhb",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lendhub/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "lendhub",
-    "coingeckoRank": 3831,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "trustbase",
     "address": "0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3",
     "name": "TrustBase",
     "symbol": "tbe",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/trustbase/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "trustbase",
-    "coingeckoRank": 3850,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "super-hero",
     "address": "0x3dc2536480775d0ab5d1d010b853cd2166cf6e11",
     "name": "Super Hero",
     "symbol": "sh",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/super-hero/small.png",
     "chainId": 128,
-    "decimals": 12,
-    "coingeckoId": "super-hero",
-    "coingeckoRank": 3995,
-    "marketCapRank": null
+    "decimals": 12
   },
   {
+    "id": "anyswap",
     "address": "0x538cee985e930557d16c383783ca957fa90b63b3",
     "name": "Anyswap",
     "symbol": "any",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/anyswap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "anyswap",
-    "coingeckoRank": 4018,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "one",
     "address": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0",
     "name": "One",
     "symbol": "one",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/one/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "one",
-    "coingeckoRank": 4019,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "nextype-finance",
     "address": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
     "name": "NEXTYPE Finance",
     "symbol": "nt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/nextype-finance/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "nextype-finance",
-    "coingeckoRank": 4174,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "shiba-inu-mother",
     "address": "0x03ed8f569dcf8824c48cd8b6fa8aba5f21297ca9",
     "name": "Shiba Inu Mother",
     "symbol": "shibm",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/shiba-inu-mother/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "shiba-inu-mother",
-    "coingeckoRank": 4467,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "ethst-governance-token",
     "address": "0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5",
     "name": "ETHST Governance",
     "symbol": "et",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ethst-governance-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "ethst-governance-token",
-    "coingeckoRank": 4525,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "walletnow",
     "address": "0x81c9309d8598fb863bbd337d35dcb6036bcd51ae",
     "name": "WalletNow",
     "symbol": "wnow",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/walletnow/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "walletnow",
-    "coingeckoRank": 4607,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "huobi-ethereum",
     "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
     "name": "Huobi Ethereum",
     "symbol": "heth",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-ethereum/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-ethereum",
-    "coingeckoRank": 4850,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-huobi-token",
     "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
     "name": "Wrapped Huobi",
     "symbol": "wht",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-huobi-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "wrapped-huobi-token",
-    "coingeckoRank": 4903,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "hokkaidu-inu",
     "address": "0x4ebf49cc2d2dd029e5cfdf868316385dffd94c6a",
     "name": "HOKK Finance",
     "symbol": "hokk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hokkaidu-inu/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "hokkaidu-inu",
-    "coingeckoRank": 5019,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "dogswap-token",
     "address": "0x099626783842d35c221e5d01694c2b928eb3b0ad",
     "name": "Dogeswap (HECO)",
     "symbol": "dog",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dogswap-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "dogswap-token",
-    "coingeckoRank": 5071,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "ins3-finance-coin",
     "address": "0x943d97ad0b597f73425d6f740596d0efd3d62507",
     "name": "Ins3.Finance Coin",
     "symbol": "itf",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ins3-finance-coin/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "ins3-finance-coin",
-    "coingeckoRank": 5091,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "huobi-pool-token",
     "address": "0xe499ef4616993730ced0f31fa2703b92b50bb536",
     "name": "Huobi Pool",
     "symbol": "hpt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-pool-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-pool-token",
-    "coingeckoRank": 5148,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "westarter",
     "address": "0x910651f81a605a6ef35d05527d24a72fecef8bf0",
     "name": "WeStarter",
     "symbol": "war",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/westarter/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "westarter",
-    "coingeckoRank": 5260,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "coinwind",
     "address": "0x80861a817106665bca173db6ac2ab628a738c737",
     "name": "CoinWind",
     "symbol": "cow",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/coinwind/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "coinwind",
-    "coingeckoRank": 5420,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "booster",
     "address": "0xff96dccf2763d512b6038dc60b7e96d1a9142507",
     "name": "Booster",
     "symbol": "boo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/booster/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "booster",
-    "coingeckoRank": 5622,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "decentralized-mining-exchange",
     "address": "0x854bb58fdda85f20b5ab20b20d888f0554c02560",
     "name": "Decentralized Mining Exchange",
     "symbol": "dmc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/decentralized-mining-exchange/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "decentralized-mining-exchange",
-    "coingeckoRank": 5640,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "flux-protocol",
     "address": "0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433",
     "name": "Flux Protocol",
     "symbol": "flux",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/flux-protocol/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "flux-protocol",
-    "coingeckoRank": 5643,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "demeter-usd",
     "address": "0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015",
     "name": "Demeter USD",
     "symbol": "dusd",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/demeter-usd/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "demeter-usd",
-    "coingeckoRank": 5731,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "dmt-token",
     "address": "0x57a7bcdfab1631aca9d6e0f39959477182cfae12",
     "name": "DMT",
     "symbol": "dmt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dmt-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "dmt-token",
-    "coingeckoRank": 5732,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "lavaswap",
     "address": "0x56f95662e71f30b333b456439248c6de589082a4",
     "name": "Lavaswap",
     "symbol": "lava",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lavaswap/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "lavaswap",
-    "coingeckoRank": 5823,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "pilot",
     "address": "0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2",
     "name": "Pilot",
     "symbol": "ptd",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pilot/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "pilot",
-    "coingeckoRank": 5862,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "earndefi",
     "address": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc",
     "name": "EarnDeFi",
     "symbol": "edc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/earndefi/small.png",
     "chainId": 128,
-    "decimals": 9,
-    "coingeckoId": "earndefi",
-    "coingeckoRank": 5899,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "yfx",
     "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
     "name": "Your Futures Exchange",
     "symbol": "yfx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yfx/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "yfx",
-    "coingeckoRank": 5944,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "huobi-litecoin",
     "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
     "name": "Huobi Litecoin",
     "symbol": "hltc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-litecoin/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-litecoin",
-    "coingeckoRank": 5995,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "xnft",
     "address": "0xe5944b50df84001a36c7de0d5cb4da7ab21407d2",
     "name": "xNFT Protocol",
     "symbol": "xnft",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xnft/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "xnft",
-    "coingeckoRank": 6072,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "super-three-kingdoms",
     "address": "0xd187e65f5a6e88d84437d96d2ae8c909cc329f95",
     "name": "Super Three Kingdoms",
     "symbol": "stk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/super-three-kingdoms/small.png",
     "chainId": 128,
-    "decimals": 12,
-    "coingeckoId": "super-three-kingdoms",
-    "coingeckoRank": 6253,
-    "marketCapRank": null
+    "decimals": 12
   },
   {
+    "id": "feichang-niu",
     "address": "0x914b633038f36d03fef5af7f12e519879576771a",
     "name": "Feichang Niu",
     "symbol": "fcn",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/feichang-niu/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "feichang-niu",
-    "coingeckoRank": 6317,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "bitcoin-br",
     "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
     "name": "Bitcoin BR",
     "symbol": "btcbr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "coingeckoRank": 6349,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "the-legend-of-deification",
     "address": "0xae88bedcedaca56a3d9a56b656804460ca16ad86",
     "name": "The Legend of Deification",
     "symbol": "tlod",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/the-legend-of-deification/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "the-legend-of-deification",
-    "coingeckoRank": 6469,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cetf",
     "address": "0x24ab27a7274de0ba5760bab804fe870bb572c510",
     "name": "Cell ETF",
     "symbol": "cetf",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cetf/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "cetf",
-    "coingeckoRank": 6688,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "basis-gold-share-heco",
     "address": "0x6868d406a125eb30886a6dd6b651d81677d1f22c",
     "name": "Basis Gold Share (Heco)",
     "symbol": "bags",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/basis-gold-share-heco/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "basis-gold-share-heco",
-    "coingeckoRank": 6846,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "htm",
     "address": "0x80c66d460e2bb9d31a8de54b4016fca986d0811f",
     "name": "HTM",
     "symbol": "htm",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/htm/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "htm",
-    "coingeckoRank": 6949,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "converter-finance",
     "address": "0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56",
     "name": "Converter Finance",
     "symbol": "con",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/converter-finance/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "converter-finance",
-    "coingeckoRank": 6959,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "dog-landing-on-the-moon",
     "address": "0x67bab912ee30074cf9a94826e2e02d9936842781",
     "name": "Dog Landing On The Moon",
     "symbol": "dogmoon",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dog-landing-on-the-moon/small.png",
     "chainId": 128,
-    "decimals": 9,
-    "coingeckoId": "dog-landing-on-the-moon",
-    "coingeckoRank": 6992,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "heco-origin-token",
     "address": "0xfc33785f44c1069010b5de466ee7657c27ab8a0e",
     "name": "Heco Origin",
     "symbol": "hogt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/heco-origin-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "heco-origin-token",
-    "coingeckoRank": 7075,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "xcom",
     "address": "0xb1a9a1585a553f2170fc68d402a278af5d186c79",
     "name": "XCOM",
     "symbol": "xc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xcom/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "xcom",
-    "coingeckoRank": 7087,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "sovi-token",
     "address": "0x49e16563a2ba84e560780946f0fb73a8b32c841e",
     "name": "Sovi",
     "symbol": "sovi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/sovi-token/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "sovi-token",
-    "coingeckoRank": 7173,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "huobi-fil",
     "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
     "name": "Huobi Fil",
     "symbol": "hfil",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-fil/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-fil",
-    "coingeckoRank": 7206,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "heco-peg-xrp",
     "address": "0xa2f3c2446a3e20049708838a779ff8782ce6645a",
     "name": "Heco-Peg XRP",
     "symbol": "xrp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/heco-peg-xrp/small.png",
     "chainId": 128,
-    "decimals": 6,
-    "coingeckoId": "heco-peg-xrp",
-    "coingeckoRank": 7263,
-    "marketCapRank": null
+    "decimals": 6
   },
   {
+    "id": "huobi-polkadot",
     "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
     "name": "Huobi Polkadot",
     "symbol": "hdot",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-polkadot/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-polkadot",
-    "coingeckoRank": 7313,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "huobi-bitcoin-cash",
     "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
     "name": "Huobi Bitcoin Cash",
     "symbol": "hbch",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/huobi-bitcoin-cash/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "huobi-bitcoin-cash",
-    "coingeckoRank": 7314,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "dojo",
     "address": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
     "name": "DOJO",
     "symbol": "dojo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dojo/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "dojo",
-    "coingeckoRank": 7392,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "hecofi",
     "address": "0x98fc3b60ed4a504f588342a53746405e355f9347",
     "name": "HecoFi",
     "symbol": "hfi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hecofi/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "hecofi",
-    "coingeckoRank": 7412,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "xfarmer",
     "address": "0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3",
     "name": "xFarmer",
     "symbol": "xf",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xfarmer/small.png",
     "chainId": 128,
-    "decimals": 18,
-    "coingeckoId": "xfarmer",
-    "coingeckoRank": 7539,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

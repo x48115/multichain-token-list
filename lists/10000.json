@@ -1,134 +1,110 @@
 [
   {
+    "id": "flex-coin",
     "address": "0x98dd7ec28fb43b3c4c770ae532417015fa939dd3",
     "name": "FLEX Coin",
     "symbol": "flex",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/flex-coin/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "flex-coin",
-    "coingeckoRank": 2132,
-    "marketCapRank": 335
+    "decimals": 18
   },
   {
+    "id": "flex-usd",
     "address": "0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72",
     "name": "flexUSD",
     "symbol": "flexusd",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/flex-usd/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "flex-usd",
-    "coingeckoRank": 1873,
-    "marketCapRank": 463
+    "decimals": 18
   },
   {
+    "id": "celery",
     "address": "0x7642df81b5beaeeb331cc5a104bd13ba68c34b91",
     "name": "Celery",
     "symbol": "cly",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celery/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "celery",
-    "coingeckoRank": 2667,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-bch",
     "address": "0x3743ec0673453e5009310c727ba4eaf7b3a1cc04",
     "name": "Wrapped BCH",
     "symbol": "wbch",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bch/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "wrapped-bch",
-    "coingeckoRank": 3632,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wojak-finance",
     "address": "0x8d7ea0ec6cab515463121a3c70df541f2f534909",
     "name": "Wojak Finance",
     "symbol": "woj",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wojak-finance/small.png",
     "chainId": 10000,
-    "decimals": 9,
-    "coingeckoId": "wojak-finance",
-    "coingeckoRank": 4782,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "green-ben",
     "address": "0x77cb87b57f54667978eb1b199b28a0db8c8e1c0b",
     "name": "Green Ben",
     "symbol": "eben",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/green-ben/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "green-ben",
-    "coingeckoRank": 6351,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "law",
     "address": "0x0b00366fbf7037e9d75e4a569ab27dab84759302",
     "name": "LAW",
     "symbol": "law",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/law/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "law",
-    "coingeckoRank": 6426,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "cashcats",
     "address": "0x265bd28d79400d55a1665707fa14a72978fa6043",
     "name": "CashCats",
     "symbol": "$cats",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cashcats/small.png",
     "chainId": 10000,
-    "decimals": 2,
-    "coingeckoId": "cashcats",
-    "coingeckoRank": 6614,
-    "marketCapRank": null
+    "decimals": 2
   },
   {
+    "id": "tangoswap",
     "address": "0x73be9c8edf5e951c9a0762ea2b1de8c8f38b5e91",
     "name": "TangoSwap",
     "symbol": "tango",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tangoswap/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "tangoswap",
-    "coingeckoRank": 6673,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "joystick-club",
     "address": "0x6732e55ac3eca734f54c26bd8df4eed52fb79a6e",
     "name": "Joystick.club",
     "symbol": "joy",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/joystick-club/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "joystick-club",
-    "coingeckoRank": 6880,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "tropical-finance",
     "address": "0x24d8d5cbc14fa6a740c3375733f0287188f8df3b",
     "name": "Tropical Finance",
     "symbol": "daiquiri",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tropical-finance/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "tropical-finance",
-    "coingeckoRank": 7014,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "1bch",
     "address": "0x77d4b6e44a53bbda9a1d156b32bb53a2d099e53d",
     "name": "1BCH",
     "symbol": "1bch",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/1bch/small.png",
     "chainId": 10000,
-    "decimals": 18,
-    "coingeckoId": "1bch",
-    "coingeckoRank": 7034,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

@@ -1,24 +1,20 @@
 [
   {
+    "id": "neutroswap",
     "address": "0xf4bd487a8190211e62925435963d996b59a860c0",
     "name": "Neutroswap",
     "symbol": "neutro",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/neutroswap/small.png",
     "chainId": 17777,
-    "decimals": 18,
-    "coingeckoId": "neutroswap",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-eos",
     "address": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
     "name": "Wrapped EOS",
     "symbol": "weos",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-eos/small.png",
     "chainId": 17777,
-    "decimals": 18,
-    "coingeckoId": "wrapped-eos",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]

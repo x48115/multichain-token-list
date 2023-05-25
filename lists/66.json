@@ -1,442 +1,362 @@
 [
   {
+    "id": "tether",
     "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
     "name": "Tether",
     "symbol": "usdt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tether/small.png",
     "chainId": 66,
-    "decimals": 6,
-    "coingeckoId": "tether",
-    "coingeckoRank": 150,
-    "marketCapRank": 3
+    "decimals": 6
   },
   {
+    "id": "usd-coin",
     "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
     "name": "USD Coin",
     "symbol": "usdc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28,
-    "marketCapRank": 5
+    "decimals": 18
   },
   {
+    "id": "binance-usd",
     "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
     "name": "Binance USD",
     "symbol": "busd",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/binance-usd/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "binance-usd",
-    "coingeckoRank": 188,
-    "marketCapRank": 15
+    "decimals": 18
   },
   {
+    "id": "okb",
     "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
     "name": "OKB",
     "symbol": "okb",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/okb/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "okb",
-    "coingeckoRank": 448,
-    "marketCapRank": 25
+    "decimals": 18
   },
   {
+    "id": "woo-network",
     "address": "0x5427a224e50a9af4d030aeecd2a686d41f348dfe",
     "name": "WOO Network",
     "symbol": "woo",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/woo-network/small.png",
     "chainId": 66,
-    "decimals": null,
-    "coingeckoId": "woo-network",
-    "coingeckoRank": 625,
-    "marketCapRank": 108
+    "decimals": null
   },
   {
+    "id": "radio-caca",
     "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
     "name": "Radio Caca",
     "symbol": "raca",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/radio-caca/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "radio-caca",
-    "coingeckoRank": 252,
-    "marketCapRank": 416
+    "decimals": 18
   },
   {
+    "id": "cherryswap",
     "address": "0x8179d97eb6488860d816e3ecafe694a4153f216c",
     "name": "CherrySwap",
     "symbol": "che",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cherryswap/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "cherryswap",
-    "coingeckoRank": 1978,
-    "marketCapRank": 1578
+    "decimals": 18
   },
   {
+    "id": "vempire-ddao",
     "address": "0x2c9a1d0e1226939edb7bbb68c43a080c28743c5c",
     "name": "VEMP",
     "symbol": "vemp",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/vempire-ddao/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "vempire-ddao",
-    "coingeckoRank": 424,
-    "marketCapRank": 1609
+    "decimals": 18
   },
   {
+    "id": "o3-swap",
     "address": "0xee9801669c6138e84bd50deb500827b776777d28",
     "name": "O3 Swap",
     "symbol": "o3",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/o3-swap/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "o3-swap",
-    "coingeckoRank": 1209,
-    "marketCapRank": 1705
+    "decimals": 18
   },
   {
+    "id": "monsterra",
     "address": "0xe397784960f814ba35c9ee0bc4c9dffdf86925f9",
     "name": "Monsterra",
     "symbol": "mstr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/monsterra/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "monsterra",
-    "coingeckoRank": 4264,
-    "marketCapRank": 2242
+    "decimals": 18
   },
   {
+    "id": "usdk",
     "address": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
     "name": "USDK",
     "symbol": "usdk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usdk/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "usdk",
-    "coingeckoRank": 669,
-    "marketCapRank": 2374
+    "decimals": 18
   },
   {
+    "id": "celestial",
     "address": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
     "name": "Celestial",
     "symbol": "celt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celestial/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "celestial",
-    "coingeckoRank": 1490,
-    "marketCapRank": 2791
+    "decimals": 18
   },
   {
+    "id": "wepiggy-coin",
     "address": "0x6f620ec89b8479e97a6985792d0c64f237566746",
     "name": "WePiggy Coin",
     "symbol": "wpc",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wepiggy-coin/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "wepiggy-coin",
-    "coingeckoRank": 4633,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "monsterra-mag",
     "address": "0x53b22d356f34e977e48921e07381de0f8200b8e6",
     "name": "Monsterra MAG",
     "symbol": "mag",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/monsterra-mag/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "monsterra-mag",
-    "coingeckoRank": 5380,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "galaxy-war",
     "address": "0x65511ce6980418db9db829b669e7dfd653dae420",
     "name": "Galaxy War",
     "symbol": "gwt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/galaxy-war/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "galaxy-war",
-    "coingeckoRank": 5485,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "crystal",
     "address": "0xbd87c06d865a3717a16041acd8d33922e60e85ce",
     "name": "Crystal",
     "symbol": "crystal",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/crystal/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "crystal",
-    "coingeckoRank": 5566,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "flux-protocol",
     "address": "0xd0c6821aba4fcc65e8f1542589e64bae9de11228",
     "name": "Flux Protocol",
     "symbol": "flux",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/flux-protocol/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "flux-protocol",
-    "coingeckoRank": 5643,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "blade",
     "address": "0xa07403c1bd0c5cf53df07f15faa589241352527b",
     "name": "BladeWarrior",
     "symbol": "blade",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/blade/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "blade",
-    "coingeckoRank": 5751,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "wrapped-okt",
     "address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
     "name": "Wrapped OKT",
     "symbol": "wokt",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-okt/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "wrapped-okt",
-    "coingeckoRank": 5801,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "ast-finance",
     "address": "0x493d8cbd9533e57d4befb17cc2ec1db76828261d",
     "name": "AST.finance",
     "symbol": "ast",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ast-finance/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "ast-finance",
-    "coingeckoRank": 5852,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "babyokx-2",
     "address": "0xe24b533d2170e808b64e7e22cc4006d19dfad70e",
     "name": "BABYOKX",
     "symbol": "babyokx",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/babyokx-2/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "babyokx-2",
-    "coingeckoRank": 5916,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "bitcoin-br",
     "address": "0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482",
     "name": "Bitcoin BR",
     "symbol": "btcbr",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "coingeckoRank": 6349,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-btc",
     "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
     "name": "OEC BTC",
     "symbol": "btck",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-btc/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-btc",
-    "coingeckoRank": 6654,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "ofi-cash",
     "address": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
     "name": "OFI.cash",
     "symbol": "ofi",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ofi-cash/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "ofi-cash",
-    "coingeckoRank": 6837,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-eth",
     "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
     "name": "OEC ETH",
     "symbol": "ethk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-eth/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-eth",
-    "coingeckoRank": 7236,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "jswap-finance",
     "address": "0x5fac926bf1e638944bb16fb5b787b5ba4bc85b0a",
     "name": "Jswap.Finance",
     "symbol": "jf",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jswap-finance/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "jswap-finance",
-    "coingeckoRank": 7245,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-fil",
     "address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
     "name": "OEC FIL",
     "symbol": "filk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-fil/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-fil",
-    "coingeckoRank": 7285,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-ltc",
     "address": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
     "name": "OEC LTC",
     "symbol": "ltck",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-ltc/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-ltc",
-    "coingeckoRank": 7286,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-bch",
     "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
     "name": "OEC BCH",
     "symbol": "bchk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-bch/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-bch",
-    "coingeckoRank": 7287,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-dai",
     "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
     "name": "OEC DAI",
     "symbol": "daik",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-dai/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-dai",
-    "coingeckoRank": 7504,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-tron",
     "address": "0x00505505a7576d6734704fabb16f41924e3e384b",
     "name": "OEC Tron",
     "symbol": "trxk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-tron/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-tron",
-    "coingeckoRank": 7505,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-uni",
     "address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
     "name": "OEC UNI",
     "symbol": "unik",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-uni/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-uni",
-    "coingeckoRank": 7506,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "health-potion",
     "address": "0xfd83168291312a0800f44610974350c569d12e42",
     "name": "Health Potion",
     "symbol": "hep",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/health-potion/small.png",
     "chainId": 66,
-    "decimals": 0,
-    "coingeckoId": "health-potion",
-    "coingeckoRank": 7555,
-    "marketCapRank": null
+    "decimals": 0
   },
   {
+    "id": "okex-fly",
     "address": "0x02f093513b7872cdfc518e51ed67f88f0e469592",
     "name": "Okex Fly",
     "symbol": "okfly",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/okex-fly/small.png",
     "chainId": 66,
-    "decimals": 9,
-    "coingeckoId": "okex-fly",
-    "coingeckoRank": 7559,
-    "marketCapRank": null
+    "decimals": 9
   },
   {
+    "id": "oec-shib",
     "address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
     "name": "OEC SHIB",
     "symbol": "shibk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-shib/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-shib",
-    "coingeckoRank": 7565,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-dot",
     "address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
     "name": "OEC DOT",
     "symbol": "dotk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-dot/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-dot",
-    "coingeckoRank": 7566,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-binance-coin",
     "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
     "name": "OEC Binance Coin",
     "symbol": "bnb",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-binance-coin/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-binance-coin",
-    "coingeckoRank": 7567,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-etc",
     "address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
     "name": "OEC ETC",
     "symbol": "etck",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-etc/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-etc",
-    "coingeckoRank": 7568,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "oec-chainlink",
     "address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
     "name": "OEC Chainlink",
     "symbol": "linkk",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/oec-chainlink/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "oec-chainlink",
-    "coingeckoRank": 7569,
-    "marketCapRank": null
+    "decimals": 18
   },
   {
+    "id": "lumiiitoken",
     "address": "0xc9b6e036e94a316e4a9ea96f7d7fd8d632f66e7a",
     "name": "Lumiii",
     "symbol": "lumiii",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/lumiiitoken/small.png",
     "chainId": 66,
-    "decimals": 18,
-    "coingeckoId": "lumiiitoken",
-    "coingeckoRank": null,
-    "marketCapRank": null
+    "decimals": 18
   }
 ]
