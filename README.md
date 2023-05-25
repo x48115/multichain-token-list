@@ -5,10 +5,10 @@
 ## Current Sources
 
 - [Coingecko](https://www.coingecko.com/en/api/documentation)
-- [TrustWallet](https://github.com/trustwallet/assets)
 
 ## Future Sources
 
+- [TrustWallet](https://github.com/trustwallet/assets)
 - [TokenListoor](https://github.com/SmolDapp/tokenLists)
 
 ## Notice
@@ -17,4 +17,4 @@
 
 ## Status
 
-- WIP
+- Updates several times a day
