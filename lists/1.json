@@ -36511,5 +36511,23 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/suzuverse/small.png",
     "chainId": 1,
     "decimals": 8
+  },
+  {
+    "id": "titi-governance-token",
+    "address": "0x3bdffa70f4b4e6985eed50453c7c0d4a15dcec52",
+    "name": "TiTi Governance Token",
+    "symbol": "titi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/titi-governance-token/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "union-finance",
+    "address": "0x5dfe42eea70a3e6f93ee54ed9c321af07a85535c",
+    "name": "Union Finance",
+    "symbol": "union",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/union-finance/small.png",
+    "chainId": 1,
+    "decimals": 18
   }
 ]

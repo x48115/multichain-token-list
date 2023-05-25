@@ -8449,5 +8449,14 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wefi-finance/small.png",
     "chainId": 137,
     "decimals": 18
+  },
+  {
+    "id": "crisp-scored-mangroves",
+    "address": "0xef6ab48ef8dfe984fab0d5c4cd6aff2e54dfda14",
+    "name": "CRISP Scored Mangroves",
+    "symbol": "crisp-m",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/crisp-scored-mangroves/small.png",
+    "chainId": 137,
+    "decimals": 18
   }
 ]

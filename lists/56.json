@@ -19980,6 +19980,15 @@
     "decimals": 18
   },
   {
+    "id": "vegasino",
+    "address": "0xe6884e29ffe5c6f68f4958cf201b0e308f982ac9",
+    "name": "Vegasino",
+    "symbol": "vegas",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/vegasino/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "catboy-2",
     "address": "0x39c3f75b837eae0d6d0ea87425ac99bd646a7b1e",
     "name": "CatBoy",
@@ -30049,5 +30058,41 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bhive/small.png",
     "chainId": 56,
     "decimals": 3
+  },
+  {
+    "id": "bob-coin",
+    "address": "0x547a9dca1f033bb6c78ef1bd5cd3574e546cf2d9",
+    "name": "BOB Coin",
+    "symbol": "bob",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bob-coin/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "id": "consciousdao",
+    "address": "0x57f5c1a40f1e847e50ebdd29cb3dbfef777d2d3e",
+    "name": "ConsciousDao",
+    "symbol": "cvn",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/consciousdao/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "id": "upfront-protocol",
+    "address": "0xf84fd783e7c38a3c99030535919fb89350387502",
+    "name": "Upfront Protocol",
+    "symbol": "up",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/upfront-protocol/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "id": "yearntogether",
+    "address": "0x0614cbfb5c0e9c9be5a460f383edddf884080c99",
+    "name": "YearnTogether",
+    "symbol": "yearn",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yearntogether/small.png",
+    "chainId": 56,
+    "decimals": 18
   }
 ]

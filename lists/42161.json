@@ -4012,5 +4012,32 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mayfair/small.png",
     "chainId": 42161,
     "decimals": 18
+  },
+  {
+    "id": "plsjones",
+    "address": "0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44",
+    "name": "plsJONES",
+    "symbol": "plsjones",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/plsjones/small.png",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "id": "plsspa",
+    "address": "0x0d111e482146fe9ac9ca3a65d92e65610bbc1ba6",
+    "name": "plsSPA",
+    "symbol": "plsspa",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/plsspa/small.png",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "id": "plvglp",
+    "address": "0x5326e71ff593ecc2cf7acae5fe57582d6e74cff1",
+    "name": "plvGLP",
+    "symbol": "plvglp",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/plvglp/small.png",
+    "chainId": 42161,
+    "decimals": 18
   }
 ]
