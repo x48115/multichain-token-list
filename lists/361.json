@@ -1,15 +1,5 @@
 [
   {
-    "address": "0x3674d64aab971ab974b2035667a4b3d09b5ec2b3",
-    "name": "WETH",
-    "symbol": "weth",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
-    "chainId": 361,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024
-  },
-  {
     "address": "0x7b37d0787a3424a0810e02b24743a45ebd5530b2",
     "name": "Binance USD",
     "symbol": "busd",
@@ -17,17 +7,8 @@
     "chainId": 361,
     "decimals": 18,
     "coingeckoId": "binance-usd",
-    "coingeckoRank": 188
-  },
-  {
-    "address": "0xdff772186ace9b5513fb46d7b05b36efa0a4a20d",
-    "name": "Wrapped BNB",
-    "symbol": "wbnb",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
-    "chainId": 361,
-    "decimals": 18,
-    "coingeckoId": "wbnb",
-    "coingeckoRank": 2975
+    "coingeckoRank": 188,
+    "marketCapRank": 15
   },
   {
     "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
@@ -37,7 +18,8 @@
     "chainId": 361,
     "decimals": 18,
     "coingeckoId": "meter",
-    "coingeckoRank": 1023
+    "coingeckoRank": 1023,
+    "marketCapRank": 507
   },
   {
     "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
@@ -47,7 +29,30 @@
     "chainId": 361,
     "decimals": null,
     "coingeckoId": "thetadrop",
-    "coingeckoRank": 1297
+    "coingeckoRank": 1297,
+    "marketCapRank": 662
+  },
+  {
+    "address": "0x3674d64aab971ab974b2035667a4b3d09b5ec2b3",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 361,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xdff772186ace9b5513fb46d7b05b36efa0a4a20d",
+    "name": "Wrapped BNB",
+    "symbol": "wbnb",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
+    "chainId": 361,
+    "decimals": 18,
+    "coingeckoId": "wbnb",
+    "coingeckoRank": 2975,
+    "marketCapRank": null
   },
   {
     "address": "0xe6a991ffa8cfe62b0bf6bf72959a3d4f11b2e0f5",
@@ -57,6 +62,7 @@
     "chainId": 361,
     "decimals": 18,
     "coingeckoId": "voltswap",
-    "coingeckoRank": 5106
+    "coingeckoRank": 5106,
+    "marketCapRank": null
   }
 ]

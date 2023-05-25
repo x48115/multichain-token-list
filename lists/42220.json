@@ -1,15 +1,5 @@
 [
   {
-    "address": "0x2def4285787d58a2f811af24755a8150622f4361",
-    "name": "WETH",
-    "symbol": "weth",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024
-  },
-  {
     "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
     "name": "Wrapped Bitcoin",
     "symbol": "wbtc",
@@ -17,67 +7,8 @@
     "chainId": 42220,
     "decimals": 18,
     "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414
-  },
-  {
-    "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-    "name": "MAI",
-    "symbol": "mimatic",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "mimatic",
-    "coingeckoRank": 1056
-  },
-  {
-    "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-    "name": "Beefy.Finance",
-    "symbol": "bifi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "beefy-finance",
-    "coingeckoRank": 156
-  },
-  {
-    "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
-    "name": "Sushi",
-    "symbol": "sushi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/sushi/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "sushi",
-    "coingeckoRank": 526
-  },
-  {
-    "address": "0x6e512bfc33be36f2666754e996ff103ad1680cc9",
-    "name": "Allbridge",
-    "symbol": "abr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/allbridge/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "allbridge",
-    "coingeckoRank": 1552
-  },
-  {
-    "address": "0x20677d4f3d0f08e735ab512393524a3cfceb250c",
-    "name": "Ari Swap",
-    "symbol": "ari",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ari-swap/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "ari-swap",
-    "coingeckoRank": 2985
-  },
-  {
-    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-    "name": "Axelar USDC",
-    "symbol": "axlusdc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/axlusdc/small.png",
-    "chainId": 42220,
-    "decimals": 6,
-    "coingeckoId": "axlusdc",
-    "coingeckoRank": 3853
+    "coingeckoRank": 414,
+    "marketCapRank": 19
   },
   {
     "address": "0x471ece3750da237f93b8e339c536989b8978a438",
@@ -87,7 +18,19 @@
     "chainId": 42220,
     "decimals": 18,
     "coingeckoId": "celo",
-    "coingeckoRank": 115
+    "coingeckoRank": 115,
+    "marketCapRank": 138
+  },
+  {
+    "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
+    "name": "Sushi",
+    "symbol": "sushi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/sushi/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "sushi",
+    "coingeckoRank": 526,
+    "marketCapRank": 192
   },
   {
     "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
@@ -97,7 +40,30 @@
     "chainId": 42220,
     "decimals": 18,
     "coingeckoId": "celo-dollar",
-    "coingeckoRank": 613
+    "coingeckoRank": 613,
+    "marketCapRank": 471
+  },
+  {
+    "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+    "name": "MAI",
+    "symbol": "mimatic",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "mimatic",
+    "coingeckoRank": 1056,
+    "marketCapRank": 493
+  },
+  {
+    "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+    "name": "Beefy.Finance",
+    "symbol": "bifi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "beefy-finance",
+    "coingeckoRank": 156,
+    "marketCapRank": 518
   },
   {
     "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
@@ -107,157 +73,8 @@
     "chainId": 42220,
     "decimals": 18,
     "coingeckoId": "celo-euro",
-    "coingeckoRank": 864
-  },
-  {
-    "address": "0x5927fd244e11db1c7b1215619144d2aabac80a4f",
-    "name": "CeloLaunch",
-    "symbol": "cla",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celolaunch/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "celolaunch",
-    "coingeckoRank": 5333
-  },
-  {
-    "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
-    "name": "Celo Real (cREAL)",
-    "symbol": "creal",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celo-real-creal/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "celo-real-creal",
-    "coingeckoRank": 7383
-  },
-  {
-    "address": "0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3",
-    "name": "CeloStarter",
-    "symbol": "cstar",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celostarter/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "celostarter",
-    "coingeckoRank": 6491
-  },
-  {
-    "address": "0x9995cc8f20db5896943afc8ee0ba463259c931ed",
-    "name": "Ethix",
-    "symbol": "ethix",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ethichub/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "ethichub",
-    "coingeckoRank": 2663
-  },
-  {
-    "address": "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee",
-    "name": "ImmortalDAO",
-    "symbol": "immo",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/immortaldao/small.png",
-    "chainId": 42220,
-    "decimals": 9,
-    "coingeckoId": "immortaldao",
-    "coingeckoRank": 4245
-  },
-  {
-    "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
-    "name": "impactMarket",
-    "symbol": "pact",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/impactmarket/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "impactmarket",
-    "coingeckoRank": 2423
-  },
-  {
-    "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
-    "name": "JumpToken",
-    "symbol": "jmpt",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jumptoken/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "jumptoken",
-    "coingeckoRank": 2069
-  },
-  {
-    "address": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
-    "name": "KROWN",
-    "symbol": "krw",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/krown/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "krown",
-    "coingeckoRank": 2046
-  },
-  {
-    "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
-    "name": "mCELO",
-    "symbol": "mcelo",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mcelo/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "mcelo",
-    "coingeckoRank": 6331
-  },
-  {
-    "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
-    "name": "mcEUR",
-    "symbol": "mceur",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mceur/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "mceur",
-    "coingeckoRank": 5923
-  },
-  {
-    "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
-    "name": "Mobius Money",
-    "symbol": "mobi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mobius-money/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "mobius-money",
-    "coingeckoRank": 6283
-  },
-  {
-    "address": "0x7037f7296b2fc7908de7b57a89efaa8319f0c500",
-    "name": "Moola CELO AToken",
-    "symbol": "mcelo",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-celo-atoken/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "moola-celo-atoken",
-    "coingeckoRank": 6331
-  },
-  {
-    "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
-    "name": "Moola Celo Dollars",
-    "symbol": "mcusd",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-celo-dollars/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "moola-celo-dollars",
-    "coingeckoRank": 1509
-  },
-  {
-    "address": "0x9802d866fde4563d088a6619f7cef82c0b991a55",
-    "name": "Moola interest bearing CREAL",
-    "symbol": "mcreal",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-interest-bearing-creal/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "moola-interest-bearing-creal",
-    "coingeckoRank": 4929
-  },
-  {
-    "address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
-    "name": "Moola Market",
-    "symbol": "moo",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-market/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "moola-market",
-    "coingeckoRank": 2237
+    "coingeckoRank": 864,
+    "marketCapRank": 796
   },
   {
     "address": "0x27cd006548df7c8c8e9fdc4a67fa05c2e3ca5cf9",
@@ -267,57 +84,52 @@
     "chainId": 42220,
     "decimals": 9,
     "coingeckoId": "plastiks",
-    "coingeckoRank": 1825
+    "coingeckoRank": 1825,
+    "marketCapRank": 991
   },
   {
-    "address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
-    "name": "PoofCash",
-    "symbol": "poof",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/poofcash/small.png",
+    "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
+    "name": "JumpToken",
+    "symbol": "jmpt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jumptoken/small.png",
     "chainId": 42220,
     "decimals": 18,
-    "coingeckoId": "poofcash",
-    "coingeckoRank": 5177
+    "coingeckoId": "jumptoken",
+    "coingeckoRank": 2069,
+    "marketCapRank": 1335
   },
   {
-    "address": "0x94140c2ea9d208d8476ca4e3045254169791c59e",
-    "name": "Premio",
-    "symbol": "premio",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/premio/small.png",
+    "address": "0x9995cc8f20db5896943afc8ee0ba463259c931ed",
+    "name": "Ethix",
+    "symbol": "ethix",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ethichub/small.png",
     "chainId": 42220,
     "decimals": 18,
-    "coingeckoId": "premio",
-    "coingeckoRank": 6594
+    "coingeckoId": "ethichub",
+    "coingeckoRank": 2663,
+    "marketCapRank": 1880
   },
   {
-    "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
-    "name": "ReSource Protocol",
-    "symbol": "source",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/resource-protocol/small.png",
+    "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
+    "name": "impactMarket",
+    "symbol": "pact",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/impactmarket/small.png",
     "chainId": 42220,
     "decimals": 18,
-    "coingeckoId": "resource-protocol",
-    "coingeckoRank": 5250
+    "coingeckoId": "impactmarket",
+    "coingeckoRank": 2423,
+    "marketCapRank": 1970
   },
   {
-    "address": "0xae978582de8ca83a53eb1d8f879ba854895f96b1",
-    "name": "Tegisto",
-    "symbol": "tgs",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tegisto/small.png",
+    "address": "0x6e512bfc33be36f2666754e996ff103ad1680cc9",
+    "name": "Allbridge",
+    "symbol": "abr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/allbridge/small.png",
     "chainId": 42220,
     "decimals": 18,
-    "coingeckoId": "tegisto",
-    "coingeckoRank": null
-  },
-  {
-    "address": "0x035ee610693a29cb77fd6efbeb9d9d278703e145",
-    "name": "Truefeedback",
-    "symbol": "tfbx",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/truefeedbackchain/small.png",
-    "chainId": 42220,
-    "decimals": 18,
-    "coingeckoId": "truefeedbackchain",
-    "coingeckoRank": 5533
+    "coingeckoId": "allbridge",
+    "coingeckoRank": 1552,
+    "marketCapRank": 2052
   },
   {
     "address": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
@@ -327,6 +139,227 @@
     "chainId": 42220,
     "decimals": 18,
     "coingeckoId": "ubeswap",
-    "coingeckoRank": 1813
+    "coingeckoRank": 1813,
+    "marketCapRank": 2064
+  },
+  {
+    "address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
+    "name": "Moola Market",
+    "symbol": "moo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-market/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "moola-market",
+    "coingeckoRank": 2237,
+    "marketCapRank": 2512
+  },
+  {
+    "address": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
+    "name": "KROWN",
+    "symbol": "krw",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/krown/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "krown",
+    "coingeckoRank": 2046,
+    "marketCapRank": 3478
+  },
+  {
+    "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
+    "name": "Moola Celo Dollars",
+    "symbol": "mcusd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-celo-dollars/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "moola-celo-dollars",
+    "coingeckoRank": 1509,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x2def4285787d58a2f811af24755a8150622f4361",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x20677d4f3d0f08e735ab512393524a3cfceb250c",
+    "name": "Ari Swap",
+    "symbol": "ari",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ari-swap/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "ari-swap",
+    "coingeckoRank": 2985,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Axelar USDC",
+    "symbol": "axlusdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/axlusdc/small.png",
+    "chainId": 42220,
+    "decimals": 6,
+    "coingeckoId": "axlusdc",
+    "coingeckoRank": 3853,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee",
+    "name": "ImmortalDAO",
+    "symbol": "immo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/immortaldao/small.png",
+    "chainId": 42220,
+    "decimals": 9,
+    "coingeckoId": "immortaldao",
+    "coingeckoRank": 4245,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x9802d866fde4563d088a6619f7cef82c0b991a55",
+    "name": "Moola interest bearing CREAL",
+    "symbol": "mcreal",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-interest-bearing-creal/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "moola-interest-bearing-creal",
+    "coingeckoRank": 4929,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
+    "name": "PoofCash",
+    "symbol": "poof",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/poofcash/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "poofcash",
+    "coingeckoRank": 5177,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
+    "name": "ReSource Protocol",
+    "symbol": "source",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/resource-protocol/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "resource-protocol",
+    "coingeckoRank": 5250,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x5927fd244e11db1c7b1215619144d2aabac80a4f",
+    "name": "CeloLaunch",
+    "symbol": "cla",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celolaunch/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "celolaunch",
+    "coingeckoRank": 5333,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x035ee610693a29cb77fd6efbeb9d9d278703e145",
+    "name": "Truefeedback",
+    "symbol": "tfbx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/truefeedbackchain/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "truefeedbackchain",
+    "coingeckoRank": 5533,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
+    "name": "mcEUR",
+    "symbol": "mceur",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mceur/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "mceur",
+    "coingeckoRank": 5923,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
+    "name": "Mobius Money",
+    "symbol": "mobi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mobius-money/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "mobius-money",
+    "coingeckoRank": 6283,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
+    "name": "mCELO",
+    "symbol": "mcelo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mcelo/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "mcelo",
+    "coingeckoRank": 6331,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x7037f7296b2fc7908de7b57a89efaa8319f0c500",
+    "name": "Moola CELO AToken",
+    "symbol": "mcelo",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/moola-celo-atoken/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "moola-celo-atoken",
+    "coingeckoRank": 6331,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3",
+    "name": "CeloStarter",
+    "symbol": "cstar",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celostarter/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "celostarter",
+    "coingeckoRank": 6491,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x94140c2ea9d208d8476ca4e3045254169791c59e",
+    "name": "Premio",
+    "symbol": "premio",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/premio/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "premio",
+    "coingeckoRank": 6594,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
+    "name": "Celo Real (cREAL)",
+    "symbol": "creal",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/celo-real-creal/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "celo-real-creal",
+    "coingeckoRank": 7383,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xae978582de8ca83a53eb1d8f879ba854895f96b1",
+    "name": "Tegisto",
+    "symbol": "tgs",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/tegisto/small.png",
+    "chainId": 42220,
+    "decimals": 18,
+    "coingeckoId": "tegisto",
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

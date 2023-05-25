@@ -1,15 +1,5 @@
 [
   {
-    "address": "0xe355c280131dfaf18bf1c3648aee3c396db6b5fd",
-    "name": "Brazilian Digital",
-    "symbol": "brz",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/brz/small.png",
-    "chainId": 30,
-    "decimals": 4,
-    "coingeckoId": "brz",
-    "coingeckoRank": 3591
-  },
-  {
     "address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
     "name": "RSK Infrastructure Framework",
     "symbol": "rif",
@@ -17,17 +7,8 @@
     "chainId": 30,
     "decimals": 18,
     "coingeckoId": "rif-token",
-    "coingeckoRank": 627
-  },
-  {
-    "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
-    "name": "Rootstock RSK",
-    "symbol": "rbtc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/rootstock/small.png",
-    "chainId": 30,
-    "decimals": 18,
-    "coingeckoId": "rootstock",
-    "coingeckoRank": 5278
+    "coingeckoRank": 627,
+    "marketCapRank": 229
   },
   {
     "address": "0xefc78fc7d48b64958315949279ba181c2114abbd",
@@ -37,7 +18,30 @@
     "chainId": 30,
     "decimals": 18,
     "coingeckoId": "sovryn",
-    "coingeckoRank": 169
+    "coingeckoRank": 169,
+    "marketCapRank": 907
+  },
+  {
+    "address": "0xe355c280131dfaf18bf1c3648aee3c396db6b5fd",
+    "name": "Brazilian Digital",
+    "symbol": "brz",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/brz/small.png",
+    "chainId": 30,
+    "decimals": 4,
+    "coingeckoId": "brz",
+    "coingeckoRank": 3591,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
+    "name": "Rootstock RSK",
+    "symbol": "rbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/rootstock/small.png",
+    "chainId": 30,
+    "decimals": 18,
+    "coingeckoId": "rootstock",
+    "coingeckoRank": 5278,
+    "marketCapRank": null
   },
   {
     "address": "0xb5999795be0ebb5bab23144aa5fd6a02d080299f",
@@ -47,6 +51,7 @@
     "chainId": 30,
     "decimals": 18,
     "coingeckoId": "xusd-babelfish",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

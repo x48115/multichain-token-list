@@ -1,13 +1,14 @@
 [
   {
-    "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
-    "name": "InfiniTORR",
-    "symbol": "torr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/infinitorr/small.png",
+    "address": "0xcc00860947035a26ffe24ecb1301ffad3a89f910",
+    "name": "Soy Finance",
+    "symbol": "soy",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/soy-finance/small.png",
     "chainId": 199,
     "decimals": 18,
-    "coingeckoId": "infinitorr",
-    "coingeckoRank": null
+    "coingeckoId": "soy-finance",
+    "coingeckoRank": 1123,
+    "marketCapRank": 1949
   },
   {
     "address": "0x388d819724dd6d71760a38f00dc01d310d879771",
@@ -17,16 +18,18 @@
     "chainId": 199,
     "decimals": 8,
     "coingeckoId": "justmoney-2",
-    "coingeckoRank": 6408
+    "coingeckoRank": 6408,
+    "marketCapRank": null
   },
   {
-    "address": "0xcc00860947035a26ffe24ecb1301ffad3a89f910",
-    "name": "Soy Finance",
-    "symbol": "soy",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/soy-finance/small.png",
+    "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
+    "name": "InfiniTORR",
+    "symbol": "torr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/infinitorr/small.png",
     "chainId": 199,
     "decimals": 18,
-    "coingeckoId": "soy-finance",
-    "coingeckoRank": 1123
+    "coingeckoId": "infinitorr",
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

@@ -7,6 +7,7 @@
     "chainId": 3693,
     "decimals": 18,
     "coingeckoId": "empire-network",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

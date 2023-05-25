@@ -1,25 +1,5 @@
 [
   {
-    "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-    "name": "USD Coin",
-    "symbol": "usdc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28
-  },
-  {
-    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
-    "name": "WETH",
-    "symbol": "weth",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024
-  },
-  {
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
     "name": "Tether",
     "symbol": "usdt",
@@ -27,37 +7,19 @@
     "chainId": 100,
     "decimals": 6,
     "coingeckoId": "tether",
-    "coingeckoRank": 150
+    "coingeckoRank": 150,
+    "marketCapRank": 3
   },
   {
-    "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
-    "name": "Wrapped Bitcoin",
-    "symbol": "wbtc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
-    "chainId": 100,
-    "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414
-  },
-  {
-    "address": "0x44fa8e6f47987339850636f88629646662444217",
-    "name": "Dai",
-    "symbol": "dai",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dai/small.png",
+    "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "dai",
-    "coingeckoRank": 165
-  },
-  {
-    "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-    "name": "MAI",
-    "symbol": "mimatic",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "mimatic",
-    "coingeckoRank": 1056
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28,
+    "marketCapRank": 5
   },
   {
     "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
@@ -67,27 +29,30 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "binance-usd",
-    "coingeckoRank": 188
+    "coingeckoRank": 188,
+    "marketCapRank": 15
   },
   {
-    "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
-    "name": "Chainlink",
-    "symbol": "link",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/chainlink/small.png",
+    "address": "0x44fa8e6f47987339850636f88629646662444217",
+    "name": "Dai",
+    "symbol": "dai",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dai/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "chainlink",
-    "coingeckoRank": 8
+    "coingeckoId": "dai",
+    "coingeckoRank": 165,
+    "marketCapRank": 18
   },
   {
-    "address": "0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf",
-    "name": "Bitcoin BR",
-    "symbol": "btcbr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
+    "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
     "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "coingeckoRank": 6349
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "coingeckoRank": 414,
+    "marketCapRank": 19
   },
   {
     "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
@@ -97,307 +62,19 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "uniswap",
-    "coingeckoRank": 180
+    "coingeckoRank": 180,
+    "marketCapRank": 20
   },
   {
-    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-    "name": "Elk Finance",
-    "symbol": "elk",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/elk-finance/small.png",
+    "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
+    "name": "Chainlink",
+    "symbol": "link",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/chainlink/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "elk-finance",
-    "coingeckoRank": 1195
-  },
-  {
-    "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
-    "name": "yearn.finance",
-    "symbol": "yfi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yearn-finance/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "yearn-finance",
-    "coingeckoRank": 102
-  },
-  {
-    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
-    "name": "JPY Coin",
-    "symbol": "jpyc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpy-coin/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "jpy-coin",
-    "coingeckoRank": 5073
-  },
-  {
-    "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
-    "name": "DXdao",
-    "symbol": "dxd",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dxdao/small.png",
-    "chainId": 100,
-    "decimals": null,
-    "coingeckoId": "dxdao",
-    "coingeckoRank": 2164
-  },
-  {
-    "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
-    "name": "CoW Protocol",
-    "symbol": "cow",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cow-protocol/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "cow-protocol",
-    "coingeckoRank": 630
-  },
-  {
-    "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
-    "name": "0xMonero",
-    "symbol": "0xmr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/0xmonero/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "0xmonero",
-    "coingeckoRank": 3187
-  },
-  {
-    "address": "0x9d918ee39a356be8ef99734599c7e70160db4db6",
-    "name": "RealT - 12405 Santa Rosa Dr, Detroit, MI 48204",
-    "symbol": "realt-s-12405-santa-rosa-dr-detroit-mi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/12405-santa-rosa/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "12405-santa-rosa",
-    "coingeckoRank": 5714
-  },
-  {
-    "address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
-    "name": "RealT - 14066 Santa Rosa Dr, Detroit, MI 48238",
-    "symbol": "realt-s-14066-santa-rosa-dr-detroit-mi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/14066-santa-rosa/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "14066-santa-rosa",
-    "coingeckoRank": 5712
-  },
-  {
-    "address": "0xf4657ab08681214bcb1893aa8e9c7613459250ec",
-    "name": "RealT - 1617 S Avers Ave, Chicago, IL 60623",
-    "symbol": "realt-s-1617-s.avers-ave-chicago-il",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/1617-s-avers/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "1617-s-avers",
-    "coingeckoRank": 5715
-  },
-  {
-    "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
-    "name": "1Hive Water",
-    "symbol": "water",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/1hive-water/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "1hive-water",
-    "coingeckoRank": 6353
-  },
-  {
-    "address": "0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3",
-    "name": "RealT - 4852-4854 W Cortez St, Chicago, IL 60651",
-    "symbol": "realt-s-4852-4854-w.cortez-st-chicago-il",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/4852-4854-w-cortez/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "4852-4854-w-cortez",
-    "coingeckoRank": 5712
-  },
-  {
-    "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-    "name": "Agave",
-    "symbol": "agve",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/agave-token/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "agave-token",
-    "coingeckoRank": 1948
-  },
-  {
-    "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
-    "name": "Badger DAO",
-    "symbol": "badger",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/badger-dao/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "badger-dao",
-    "coingeckoRank": 810
-  },
-  {
-    "address": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
-    "name": "Balancer",
-    "symbol": "bal",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/balancer/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "balancer",
-    "coingeckoRank": 166
-  },
-  {
-    "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
-    "name": "BrightID",
-    "symbol": "bright",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bright-token/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "bright-token",
-    "coingeckoRank": 6067
-  },
-  {
-    "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
-    "name": "Circuits of Value",
-    "symbol": "coval",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/circuits-of-value/small.png",
-    "chainId": 100,
-    "decimals": 8,
-    "coingeckoId": "circuits-of-value",
-    "coingeckoRank": 532
-  },
-  {
-    "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
-    "name": "DAOhaus",
-    "symbol": "haus",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/daohaus/small.png",
-    "chainId": 100,
-    "decimals": 35,
-    "coingeckoId": "daohaus",
-    "coingeckoRank": 357
-  },
-  {
-    "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
-    "name": "DAOSquare",
-    "symbol": "rice",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/daosquare/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "daosquare",
-    "coingeckoRank": 5481
-  },
-  {
-    "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
-    "name": "DeFi Pulse Index",
-    "symbol": "dpi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/defipulse-index/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "defipulse-index",
-    "coingeckoRank": 1236
-  },
-  {
-    "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
-    "name": "Meme",
-    "symbol": "meme",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/degenerator/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "degenerator",
-    "coingeckoRank": 2515
-  },
-  {
-    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
-    "name": "DeHive",
-    "symbol": "dhv",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dehive/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "dehive",
-    "coingeckoRank": 2468
-  },
-  {
-    "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
-    "name": "Donut",
-    "symbol": "donut",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/donut/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "donut",
-    "coingeckoRank": 1124
-  },
-  {
-    "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
-    "name": "Energy Web",
-    "symbol": "ewt",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/energy-web-token/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "energy-web-token",
-    "coingeckoRank": 492
-  },
-  {
-    "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
-    "name": "EsportsRef",
-    "symbol": "esr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/esportsref/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "esportsref",
-    "coingeckoRank": 4839
-  },
-  {
-    "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
-    "name": "Etho Protocol",
-    "symbol": "etho",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ether-1/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "ether-1",
-    "coingeckoRank": 660
-  },
-  {
-    "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
-    "name": "Etherisc DIP",
-    "symbol": "dip",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/etherisc/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "etherisc",
-    "coingeckoRank": 457
-  },
-  {
-    "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
-    "name": "Ethix",
-    "symbol": "ethix",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ethichub/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "ethichub",
-    "coingeckoRank": 2663
-  },
-  {
-    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
-    "name": "Fraction",
-    "symbol": "fraction",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fraction/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "fraction",
-    "coingeckoRank": 7046
-  },
-  {
-    "address": "0x270de58f54649608d316faa795a9941b355a2bd0",
-    "name": "Freedom Reserve",
-    "symbol": "fr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/freedom-reserve/small.png",
-    "chainId": 100,
-    "decimals": null,
-    "coingeckoId": "freedom-reserve",
-    "coingeckoRank": 3367
-  },
-  {
-    "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
-    "name": "Giveth",
-    "symbol": "giv",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/giveth/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "giveth",
-    "coingeckoRank": 469
+    "coingeckoId": "chainlink",
+    "coingeckoRank": 8,
+    "marketCapRank": 21
   },
   {
     "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
@@ -407,137 +84,52 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "gnosis",
-    "coingeckoRank": 149
+    "coingeckoRank": 149,
+    "marketCapRank": 123
   },
   {
-    "address": "0x3a3e9715018d80916740e8ac300713fdf6614d19",
-    "name": "hiveWater",
-    "symbol": "hivewater",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hivewater/small.png",
+    "address": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
+    "name": "Balancer",
+    "symbol": "bal",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/balancer/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "hivewater",
-    "coingeckoRank": null
+    "coingeckoId": "balancer",
+    "coingeckoRank": 166,
+    "marketCapRank": 163
   },
   {
-    "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
-    "name": "Honey",
-    "symbol": "hny",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/honey/small.png",
+    "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+    "name": "yearn.finance",
+    "symbol": "yfi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yearn-finance/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "honey",
-    "coingeckoRank": 4138
+    "coingeckoId": "yearn-finance",
+    "coingeckoRank": 102,
+    "marketCapRank": 167
   },
   {
-    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
-    "name": "Hop Protocol",
-    "symbol": "hop",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hop-protocol/small.png",
+    "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
+    "name": "Energy Web",
+    "symbol": "ewt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/energy-web-token/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "hop-protocol",
-    "coingeckoRank": 1482
+    "coingeckoId": "energy-web-token",
+    "coingeckoRank": 492,
+    "marketCapRank": 245
   },
   {
-    "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
-    "name": "HOPR",
-    "symbol": "hopr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hopr/small.png",
-    "chainId": 100,
-    "decimals": null,
-    "coingeckoId": "hopr",
-    "coingeckoRank": 147
-  },
-  {
-    "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
-    "name": "Jarvis Synthetic Euro",
-    "symbol": "jeur",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jarvis-synthetic-euro/small.png",
+    "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
+    "name": "Badger DAO",
+    "symbol": "badger",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/badger-dao/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-euro",
-    "coingeckoRank": 4803
-  },
-  {
-    "address": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
-    "name": "Jarvis Synthetic Swiss Franc",
-    "symbol": "jchf",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jarvis-synthetic-swiss-franc/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-swiss-franc",
-    "coingeckoRank": 5989
-  },
-  {
-    "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
-    "name": "JPY Coin v1",
-    "symbol": "jpyc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpyc/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "jpyc",
-    "coingeckoRank": 6292
-  },
-  {
-    "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
-    "name": "Kleros",
-    "symbol": "pnk",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kleros/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "kleros",
-    "coingeckoRank": 159
-  },
-  {
-    "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
-    "name": "Minerva Wallet",
-    "symbol": "miva",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/minerva-wallet/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "minerva-wallet",
-    "coingeckoRank": 3222
-  },
-  {
-    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
-    "name": "Monerium EUR emoney",
-    "symbol": "eure",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/monerium-eur-money/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "monerium-eur-money",
-    "coingeckoRank": 2465
-  },
-  {
-    "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
-    "name": "Mt Pelerin Shares",
-    "symbol": "mps",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mt-pelerin-shares/small.png",
-    "chainId": 100,
-    "decimals": 0,
-    "coingeckoId": "mt-pelerin-shares",
-    "coingeckoRank": 2360
-  },
-  {
-    "address": "0x981fb9ba94078a2275a8fc906898ea107b9462a8",
-    "name": "Panvala Pan",
-    "symbol": "pan",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/panvala-pan/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "panvala-pan",
-    "coingeckoRank": 6742
-  },
-  {
-    "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
-    "name": "Particle",
-    "symbol": "prtcle",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/particle-2/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "particle-2",
-    "coingeckoRank": 3573
+    "coingeckoId": "badger-dao",
+    "coingeckoRank": 810,
+    "marketCapRank": 433
   },
   {
     "address": "0x7ecf26cd9a36990b8ea477853663092333f59979",
@@ -547,67 +139,19 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "perpetual-protocol",
-    "coingeckoRank": 789
+    "coingeckoRank": 789,
+    "marketCapRank": 461
   },
   {
-    "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
-    "name": "Raid",
-    "symbol": "raid",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/raid-token/small.png",
+    "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+    "name": "MAI",
+    "symbol": "mimatic",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mimatic/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "raid-token",
-    "coingeckoRank": 6263
-  },
-  {
-    "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
-    "name": "ShapeShift FOX",
-    "symbol": "fox",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/shapeshift-fox-token/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "shapeshift-fox-token",
-    "coingeckoRank": 1712
-  },
-  {
-    "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
-    "name": "Streamr",
-    "symbol": "data",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/streamr/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "streamr",
-    "coingeckoRank": 340
-  },
-  {
-    "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
-    "name": "Swapr",
-    "symbol": "swpr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swapr/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "swapr",
-    "coingeckoRank": 386
-  },
-  {
-    "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
-    "name": "Swarm",
-    "symbol": "bzz",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swarm-bzz/small.png",
-    "chainId": 100,
-    "decimals": 16,
-    "coingeckoId": "swarm-bzz",
-    "coingeckoRank": 608
-  },
-  {
-    "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
-    "name": "Swash",
-    "symbol": "swash",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swash/small.png",
-    "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "swash",
-    "coingeckoRank": 1766
+    "coingeckoId": "mimatic",
+    "coingeckoRank": 1056,
+    "marketCapRank": 493
   },
   {
     "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
@@ -617,47 +161,107 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "tellor",
-    "coingeckoRank": 707
+    "coingeckoRank": 707,
+    "marketCapRank": 556
   },
   {
-    "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
-    "name": "Token Engineering Commons",
-    "symbol": "tec",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/token-engineering-commons/small.png",
+    "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
+    "name": "Swarm",
+    "symbol": "bzz",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swarm-bzz/small.png",
     "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "token-engineering-commons",
-    "coingeckoRank": 6478
+    "decimals": 16,
+    "coingeckoId": "swarm-bzz",
+    "coingeckoRank": 608,
+    "marketCapRank": 642
   },
   {
-    "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
-    "name": "TORG",
-    "symbol": "torg",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/torg/small.png",
+    "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+    "name": "Streamr",
+    "symbol": "data",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/streamr/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "torg",
-    "coingeckoRank": 5301
+    "coingeckoId": "streamr",
+    "coingeckoRank": 340,
+    "marketCapRank": 705
   },
   {
-    "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
-    "name": "Trips Community",
-    "symbol": "trips",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/trips-community/small.png",
+    "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
+    "name": "HOPR",
+    "symbol": "hopr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hopr/small.png",
     "chainId": 100,
-    "decimals": 18,
-    "coingeckoId": "trips-community",
-    "coingeckoRank": 6730
+    "decimals": null,
+    "coingeckoId": "hopr",
+    "coingeckoRank": 147,
+    "marketCapRank": 712
   },
   {
-    "address": "0x703120f2f2011a0d03a03a531ac0e84e81f15989",
-    "name": "UNCL",
-    "symbol": "uncl",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/uncl/small.png",
+    "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
+    "name": "DXdao",
+    "symbol": "dxd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dxdao/small.png",
+    "chainId": 100,
+    "decimals": null,
+    "coingeckoId": "dxdao",
+    "coingeckoRank": 2164,
+    "marketCapRank": 760
+  },
+  {
+    "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+    "name": "Kleros",
+    "symbol": "pnk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/kleros/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "uncl",
-    "coingeckoRank": 2547
+    "coingeckoId": "kleros",
+    "coingeckoRank": 159,
+    "marketCapRank": 771
+  },
+  {
+    "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
+    "name": "Circuits of Value",
+    "symbol": "coval",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/circuits-of-value/small.png",
+    "chainId": 100,
+    "decimals": 8,
+    "coingeckoId": "circuits-of-value",
+    "coingeckoRank": 532,
+    "marketCapRank": 792
+  },
+  {
+    "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
+    "name": "DeFi Pulse Index",
+    "symbol": "dpi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/defipulse-index/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "defipulse-index",
+    "coingeckoRank": 1236,
+    "marketCapRank": 808
+  },
+  {
+    "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
+    "name": "ShapeShift FOX",
+    "symbol": "fox",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/shapeshift-fox-token/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "shapeshift-fox-token",
+    "coingeckoRank": 1712,
+    "marketCapRank": 889
+  },
+  {
+    "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+    "name": "CoW Protocol",
+    "symbol": "cow",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/cow-protocol/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "cow-protocol",
+    "coingeckoRank": 630,
+    "marketCapRank": 946
   },
   {
     "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
@@ -667,37 +271,151 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "unicrypt-2",
-    "coingeckoRank": 1889
+    "coingeckoRank": 1889,
+    "marketCapRank": 986
   },
   {
-    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-    "name": "Wrapped XDAI",
-    "symbol": "wxdai",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-xdai/small.png",
+    "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
+    "name": "Swash",
+    "symbol": "swash",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swash/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "wrapped-xdai",
-    "coingeckoRank": 4610
+    "coingeckoId": "swash",
+    "coingeckoRank": 1766,
+    "marketCapRank": 1027
   },
   {
-    "address": "",
-    "name": "XDAI",
-    "symbol": "xdai",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xdai/small.png",
-    "chainId": 100,
-    "decimals": null,
-    "coingeckoId": "xdai",
-    "coingeckoRank": 1356
-  },
-  {
-    "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
-    "name": "xDai Native Comb",
-    "symbol": "xcomb",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xdai-native-comb/small.png",
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "Hop Protocol",
+    "symbol": "hop",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hop-protocol/small.png",
     "chainId": 100,
     "decimals": 18,
-    "coingeckoId": "xdai-native-comb",
-    "coingeckoRank": 6282
+    "coingeckoId": "hop-protocol",
+    "coingeckoRank": 1482,
+    "marketCapRank": 1076
+  },
+  {
+    "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
+    "name": "Etherisc DIP",
+    "symbol": "dip",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/etherisc/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "etherisc",
+    "coingeckoRank": 457,
+    "marketCapRank": 1104
+  },
+  {
+    "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
+    "name": "Mt Pelerin Shares",
+    "symbol": "mps",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/mt-pelerin-shares/small.png",
+    "chainId": 100,
+    "decimals": 0,
+    "coingeckoId": "mt-pelerin-shares",
+    "coingeckoRank": 2360,
+    "marketCapRank": 1319
+  },
+  {
+    "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
+    "name": "Swapr",
+    "symbol": "swpr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/swapr/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "swapr",
+    "coingeckoRank": 386,
+    "marketCapRank": 1677
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "name": "Elk Finance",
+    "symbol": "elk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/elk-finance/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "elk-finance",
+    "coingeckoRank": 1195,
+    "marketCapRank": 1762
+  },
+  {
+    "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
+    "name": "Giveth",
+    "symbol": "giv",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/giveth/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "giveth",
+    "coingeckoRank": 469,
+    "marketCapRank": 1826
+  },
+  {
+    "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
+    "name": "Meme",
+    "symbol": "meme",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/degenerator/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "degenerator",
+    "coingeckoRank": 2515,
+    "marketCapRank": 1841
+  },
+  {
+    "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
+    "name": "DAOhaus",
+    "symbol": "haus",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/daohaus/small.png",
+    "chainId": 100,
+    "decimals": 35,
+    "coingeckoId": "daohaus",
+    "coingeckoRank": 357,
+    "marketCapRank": 1852
+  },
+  {
+    "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
+    "name": "Ethix",
+    "symbol": "ethix",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ethichub/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "ethichub",
+    "coingeckoRank": 2663,
+    "marketCapRank": 1880
+  },
+  {
+    "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+    "name": "Agave",
+    "symbol": "agve",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/agave-token/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "agave-token",
+    "coingeckoRank": 1948,
+    "marketCapRank": 2075
+  },
+  {
+    "address": "0x703120f2f2011a0d03a03a531ac0e84e81f15989",
+    "name": "UNCL",
+    "symbol": "uncl",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/uncl/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "uncl",
+    "coingeckoRank": 2547,
+    "marketCapRank": 2186
+  },
+  {
+    "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
+    "name": "Etho Protocol",
+    "symbol": "etho",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/ether-1/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "ether-1",
+    "coingeckoRank": 660,
+    "marketCapRank": 2475
   },
   {
     "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
@@ -707,7 +425,41 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "xdai-stake",
-    "coingeckoRank": 2374
+    "coingeckoRank": 2374,
+    "marketCapRank": 2545
+  },
+  {
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "name": "DeHive",
+    "symbol": "dhv",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dehive/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "dehive",
+    "coingeckoRank": 2468,
+    "marketCapRank": 2735
+  },
+  {
+    "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
+    "name": "Donut",
+    "symbol": "donut",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/donut/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "donut",
+    "coingeckoRank": 1124,
+    "marketCapRank": 2779
+  },
+  {
+    "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+    "name": "0xMonero",
+    "symbol": "0xmr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/0xmonero/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "0xmonero",
+    "coingeckoRank": 3187,
+    "marketCapRank": 2792
   },
   {
     "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
@@ -717,6 +469,326 @@
     "chainId": 100,
     "decimals": 18,
     "coingeckoId": "xion-finance",
-    "coingeckoRank": 2611
+    "coingeckoRank": 2611,
+    "marketCapRank": 3099
+  },
+  {
+    "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+    "name": "Minerva Wallet",
+    "symbol": "miva",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/minerva-wallet/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "minerva-wallet",
+    "coingeckoRank": 3222,
+    "marketCapRank": 3293
+  },
+  {
+    "address": "0x270de58f54649608d316faa795a9941b355a2bd0",
+    "name": "Freedom Reserve",
+    "symbol": "fr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/freedom-reserve/small.png",
+    "chainId": 100,
+    "decimals": null,
+    "coingeckoId": "freedom-reserve",
+    "coingeckoRank": 3367,
+    "marketCapRank": 3499
+  },
+  {
+    "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+    "name": "Particle",
+    "symbol": "prtcle",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/particle-2/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "particle-2",
+    "coingeckoRank": 3573,
+    "marketCapRank": 3577
+  },
+  {
+    "address": "",
+    "name": "XDAI",
+    "symbol": "xdai",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xdai/small.png",
+    "chainId": 100,
+    "decimals": null,
+    "coingeckoId": "xdai",
+    "coingeckoRank": 1356,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "name": "Monerium EUR emoney",
+    "symbol": "eure",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/monerium-eur-money/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "monerium-eur-money",
+    "coingeckoRank": 2465,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+    "name": "Honey",
+    "symbol": "hny",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/honey/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "honey",
+    "coingeckoRank": 4138,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "name": "Wrapped XDAI",
+    "symbol": "wxdai",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-xdai/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "wrapped-xdai",
+    "coingeckoRank": 4610,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jeur",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jarvis-synthetic-euro/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "jarvis-synthetic-euro",
+    "coingeckoRank": 4803,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
+    "name": "EsportsRef",
+    "symbol": "esr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/esportsref/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "esportsref",
+    "coingeckoRank": 4839,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "name": "JPY Coin",
+    "symbol": "jpyc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpy-coin/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "jpy-coin",
+    "coingeckoRank": 5073,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
+    "name": "TORG",
+    "symbol": "torg",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/torg/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "torg",
+    "coingeckoRank": 5301,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
+    "name": "DAOSquare",
+    "symbol": "rice",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/daosquare/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "daosquare",
+    "coingeckoRank": 5481,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
+    "name": "RealT - 14066 Santa Rosa Dr, Detroit, MI 48238",
+    "symbol": "realt-s-14066-santa-rosa-dr-detroit-mi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/14066-santa-rosa/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "14066-santa-rosa",
+    "coingeckoRank": 5712,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3",
+    "name": "RealT - 4852-4854 W Cortez St, Chicago, IL 60651",
+    "symbol": "realt-s-4852-4854-w.cortez-st-chicago-il",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/4852-4854-w-cortez/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "4852-4854-w-cortez",
+    "coingeckoRank": 5712,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x9d918ee39a356be8ef99734599c7e70160db4db6",
+    "name": "RealT - 12405 Santa Rosa Dr, Detroit, MI 48204",
+    "symbol": "realt-s-12405-santa-rosa-dr-detroit-mi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/12405-santa-rosa/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "12405-santa-rosa",
+    "coingeckoRank": 5714,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xf4657ab08681214bcb1893aa8e9c7613459250ec",
+    "name": "RealT - 1617 S Avers Ave, Chicago, IL 60623",
+    "symbol": "realt-s-1617-s.avers-ave-chicago-il",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/1617-s-avers/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "1617-s-avers",
+    "coingeckoRank": 5715,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jchf",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jarvis-synthetic-swiss-franc/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "jarvis-synthetic-swiss-franc",
+    "coingeckoRank": 5989,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
+    "name": "BrightID",
+    "symbol": "bright",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bright-token/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "bright-token",
+    "coingeckoRank": 6067,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "name": "Raid",
+    "symbol": "raid",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/raid-token/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "raid-token",
+    "coingeckoRank": 6263,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+    "name": "xDai Native Comb",
+    "symbol": "xcomb",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xdai-native-comb/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "xdai-native-comb",
+    "coingeckoRank": 6282,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+    "name": "JPY Coin v1",
+    "symbol": "jpyc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/jpyc/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "jpyc",
+    "coingeckoRank": 6292,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf",
+    "name": "Bitcoin BR",
+    "symbol": "btcbr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "bitcoin-br",
+    "coingeckoRank": 6349,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
+    "name": "1Hive Water",
+    "symbol": "water",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/1hive-water/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "1hive-water",
+    "coingeckoRank": 6353,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
+    "name": "Token Engineering Commons",
+    "symbol": "tec",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/token-engineering-commons/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "token-engineering-commons",
+    "coingeckoRank": 6478,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
+    "name": "Trips Community",
+    "symbol": "trips",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/trips-community/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "trips-community",
+    "coingeckoRank": 6730,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x981fb9ba94078a2275a8fc906898ea107b9462a8",
+    "name": "Panvala Pan",
+    "symbol": "pan",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/panvala-pan/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "panvala-pan",
+    "coingeckoRank": 6742,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "name": "Fraction",
+    "symbol": "fraction",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fraction/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "fraction",
+    "coingeckoRank": 7046,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x3a3e9715018d80916740e8ac300713fdf6614d19",
+    "name": "hiveWater",
+    "symbol": "hivewater",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/hivewater/small.png",
+    "chainId": 100,
+    "decimals": 18,
+    "coingeckoId": "hivewater",
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

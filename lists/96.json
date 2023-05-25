@@ -7,7 +7,8 @@
     "chainId": 96,
     "decimals": 18,
     "coingeckoId": "dice-kingdom",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   },
   {
     "address": "0x95013dcb6a561e6c003aed9c43fb8b64008aa361",
@@ -17,7 +18,8 @@
     "chainId": 96,
     "decimals": 18,
     "coingeckoId": "lumi",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   },
   {
     "address": "0x8debbb77e8a17cffcfc0c7f1f40308886edd3f9f",
@@ -27,6 +29,7 @@
     "chainId": 96,
     "decimals": 18,
     "coingeckoId": "yes-token",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

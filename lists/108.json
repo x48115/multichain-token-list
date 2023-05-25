@@ -7,6 +7,7 @@
     "chainId": 108,
     "decimals": 18,
     "coingeckoId": "nftmall",
-    "coingeckoRank": 3081
+    "coingeckoRank": 3081,
+    "marketCapRank": 3332
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-    "name": "USD Coin",
-    "symbol": "usdc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
-    "chainId": 57,
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28
-  },
-  {
-    "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
-    "name": "WETH",
-    "symbol": "weth",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
-    "chainId": 57,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024
-  },
-  {
     "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
     "name": "Tether",
     "symbol": "usdt",
@@ -27,17 +7,19 @@
     "chainId": 57,
     "decimals": 6,
     "coingeckoId": "tether",
-    "coingeckoRank": 150
+    "coingeckoRank": 150,
+    "marketCapRank": 3
   },
   {
-    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
-    "name": "Wrapped Bitcoin",
-    "symbol": "wbtc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
+    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 57,
-    "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28,
+    "marketCapRank": 5
   },
   {
     "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
@@ -47,7 +29,19 @@
     "chainId": 57,
     "decimals": 18,
     "coingeckoId": "dai",
-    "coingeckoRank": 165
+    "coingeckoRank": 165,
+    "marketCapRank": 18
+  },
+  {
+    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
+    "chainId": 57,
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "coingeckoRank": 414,
+    "marketCapRank": 19
   },
   {
     "address": "0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f",
@@ -57,27 +51,19 @@
     "chainId": 57,
     "decimals": 18,
     "coingeckoId": "mimatic",
-    "coingeckoRank": 1056
+    "coingeckoRank": 1056,
+    "marketCapRank": 493
   },
   {
-    "address": "367794646",
-    "name": "AGX Coin",
-    "symbol": "agx",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/agx-coin/small.png",
-    "chainId": 57,
-    "decimals": 8,
-    "coingeckoId": "agx-coin",
-    "coingeckoRank": null
-  },
-  {
-    "address": "0xe18c200a70908c89ffa18c628fe1b83ac0065ea4",
-    "name": "Pegasys",
-    "symbol": "psys",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pegasys/small.png",
+    "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
     "chainId": 57,
     "decimals": 18,
-    "coingeckoId": "pegasys",
-    "coingeckoRank": 3466
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024,
+    "marketCapRank": null
   },
   {
     "address": "0xd3e822f3ef011ca5f17d82c956d952d8d7c3a1bb",
@@ -87,6 +73,29 @@
     "chainId": 57,
     "decimals": 18,
     "coingeckoId": "wrapped-syscoin",
-    "coingeckoRank": 2824
+    "coingeckoRank": 2824,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe18c200a70908c89ffa18c628fe1b83ac0065ea4",
+    "name": "Pegasys",
+    "symbol": "psys",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/pegasys/small.png",
+    "chainId": 57,
+    "decimals": 18,
+    "coingeckoId": "pegasys",
+    "coingeckoRank": 3466,
+    "marketCapRank": null
+  },
+  {
+    "address": "367794646",
+    "name": "AGX Coin",
+    "symbol": "agx",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/agx-coin/small.png",
+    "chainId": 57,
+    "decimals": 8,
+    "coingeckoId": "agx-coin",
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]

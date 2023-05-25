@@ -1,25 +1,5 @@
 [
   {
-    "address": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
-    "name": "USD Coin",
-    "symbol": "usdc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
-    "chainId": 122,
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "coingeckoRank": 28
-  },
-  {
-    "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
-    "name": "WETH",
-    "symbol": "weth",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
-    "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "coingeckoRank": 2024
-  },
-  {
     "address": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
     "name": "Tether",
     "symbol": "usdt",
@@ -27,17 +7,19 @@
     "chainId": 122,
     "decimals": 6,
     "coingeckoId": "tether",
-    "coingeckoRank": 150
+    "coingeckoRank": 150,
+    "marketCapRank": 3
   },
   {
-    "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
-    "name": "Wrapped Bitcoin",
-    "symbol": "wbtc",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
+    "address": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/usd-coin/small.png",
     "chainId": 122,
-    "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
-    "coingeckoRank": 414
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "coingeckoRank": 28,
+    "marketCapRank": 5
   },
   {
     "address": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
@@ -47,47 +29,19 @@
     "chainId": 122,
     "decimals": 18,
     "coingeckoId": "binance-usd",
-    "coingeckoRank": 188
+    "coingeckoRank": 188,
+    "marketCapRank": 15
   },
   {
-    "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
-    "name": "Wrapped BNB",
-    "symbol": "wbnb",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
+    "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wbtc",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wrapped-bitcoin/small.png",
     "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "wbnb",
-    "coingeckoRank": 2975
-  },
-  {
-    "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
-    "name": "Bitcoin BR",
-    "symbol": "btcbr",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
-    "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "coingeckoRank": 6349
-  },
-  {
-    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-    "name": "Beefy.Finance",
-    "symbol": "bifi",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
-    "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "beefy-finance",
-    "coingeckoRank": 156
-  },
-  {
-    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-    "name": "Elk Finance",
-    "symbol": "elk",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/elk-finance/small.png",
-    "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "elk-finance",
-    "coingeckoRank": 1195
+    "decimals": 8,
+    "coingeckoId": "wrapped-bitcoin",
+    "coingeckoRank": 414,
+    "marketCapRank": 19
   },
   {
     "address": "0x5dd8015cec49f4db01fd228f688bf30337d3e0a9",
@@ -97,27 +51,19 @@
     "chainId": 122,
     "decimals": 18,
     "coingeckoId": "dogelon-mars",
-    "coingeckoRank": 360
+    "coingeckoRank": 360,
+    "marketCapRank": 252
   },
   {
-    "address": "0xd0ce1b4a349c35e61af02f5971e71ac502441e49",
-    "name": "Fuse Dollar",
-    "symbol": "fusd",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fuse-dollar/small.png",
+    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+    "name": "Beefy.Finance",
+    "symbol": "bifi",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beefy-finance/small.png",
     "chainId": 122,
     "decimals": 18,
-    "coingeckoId": "fuse-dollar",
-    "coingeckoRank": 5668
-  },
-  {
-    "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
-    "name": "Voltage Finance",
-    "symbol": "volt",
-    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fusefi/small.png",
-    "chainId": 122,
-    "decimals": 18,
-    "coingeckoId": "fusefi",
-    "coingeckoRank": 2890
+    "coingeckoId": "beefy-finance",
+    "coingeckoRank": 156,
+    "marketCapRank": 518
   },
   {
     "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
@@ -127,7 +73,74 @@
     "chainId": 122,
     "decimals": 18,
     "coingeckoId": "fuse-network-token",
-    "coingeckoRank": 1406
+    "coingeckoRank": 1406,
+    "marketCapRank": 815
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "name": "Elk Finance",
+    "symbol": "elk",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/elk-finance/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "elk-finance",
+    "coingeckoRank": 1195,
+    "marketCapRank": 1762
+  },
+  {
+    "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
+    "name": "Voltage Finance",
+    "symbol": "volt",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fusefi/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "fusefi",
+    "coingeckoRank": 2890,
+    "marketCapRank": 2146
+  },
+  {
+    "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
+    "name": "WETH",
+    "symbol": "weth",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/weth/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "weth",
+    "coingeckoRank": 2024,
+    "marketCapRank": null
+  },
+  {
+    "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
+    "name": "Wrapped BNB",
+    "symbol": "wbnb",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/wbnb/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "wbnb",
+    "coingeckoRank": 2975,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xd0ce1b4a349c35e61af02f5971e71ac502441e49",
+    "name": "Fuse Dollar",
+    "symbol": "fusd",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fuse-dollar/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "fuse-dollar",
+    "coingeckoRank": 5668,
+    "marketCapRank": null
+  },
+  {
+    "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
+    "name": "Bitcoin BR",
+    "symbol": "btcbr",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitcoin-br/small.png",
+    "chainId": 122,
+    "decimals": 18,
+    "coingeckoId": "bitcoin-br",
+    "coingeckoRank": 6349,
+    "marketCapRank": null
   },
   {
     "address": "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
@@ -137,6 +150,7 @@
     "chainId": 122,
     "decimals": 18,
     "coingeckoId": "icecream",
-    "coingeckoRank": 7047
+    "coingeckoRank": 7047,
+    "marketCapRank": null
   }
 ]

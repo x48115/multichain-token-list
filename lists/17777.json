@@ -7,7 +7,8 @@
     "chainId": 17777,
     "decimals": 18,
     "coingeckoId": "neutroswap",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   },
   {
     "address": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
@@ -17,6 +18,7 @@
     "chainId": 17777,
     "decimals": 18,
     "coingeckoId": "wrapped-eos",
-    "coingeckoRank": null
+    "coingeckoRank": null,
+    "marketCapRank": null
   }
 ]
