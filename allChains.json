@@ -36459,6 +36459,24 @@
     "decimals": 18
   },
   {
+    "id": "2dai-io",
+    "address": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d",
+    "name": "2DAI.io",
+    "symbol": "2dai",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/2dai-io/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "bruce-pepe",
+    "address": "0x34c8b3fe84410f9b3870549e037fd1ea7b168977",
+    "name": "BRUCE pepe",
+    "symbol": "bruce",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bruce-pepe/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
     "id": "tether",
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
     "name": "Tether",
