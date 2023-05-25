@@ -3085,5 +3085,14 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xshrap/small.png",
     "chainId": 43114,
     "decimals": 18
+  },
+  {
+    "id": "bware-infra",
+    "address": "0xa4fb4f0ff2431262d236778495145ecbc975c38b",
+    "name": "Bware INFRA",
+    "symbol": "infra",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bware-infra/small.png",
+    "chainId": 43114,
+    "decimals": 18
   }
 ]

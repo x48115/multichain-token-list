@@ -36477,6 +36477,15 @@
     "decimals": 18
   },
   {
+    "id": "bware-infra",
+    "address": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
+    "name": "Bware INFRA",
+    "symbol": "infra",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bware-infra/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
     "id": "tether",
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
     "name": "Tether",
@@ -91859,6 +91868,15 @@
     "name": "xShrap",
     "symbol": "xshrap",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/xshrap/small.png",
+    "chainId": 43114,
+    "decimals": 18
+  },
+  {
+    "id": "bware-infra",
+    "address": "0xa4fb4f0ff2431262d236778495145ecbc975c38b",
+    "name": "Bware INFRA",
+    "symbol": "infra",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bware-infra/small.png",
     "chainId": 43114,
     "decimals": 18
   },

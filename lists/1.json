@@ -36475,5 +36475,14 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bruce-pepe/small.png",
     "chainId": 1,
     "decimals": 18
+  },
+  {
+    "id": "bware-infra",
+    "address": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
+    "name": "Bware INFRA",
+    "symbol": "infra",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bware-infra/small.png",
+    "chainId": 1,
+    "decimals": 18
   }
 ]
