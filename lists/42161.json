@@ -4039,5 +4039,23 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/plvglp/small.png",
     "chainId": 42161,
     "decimals": 18
+  },
+  {
+    "id": "arbswap",
+    "address": "0xf50874f8246776ca4b89eef471e718f70f38458f",
+    "name": "Arbswap",
+    "symbol": "arbs",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/arbswap/small.png",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "id": "goldbank",
+    "address": "0xbcad8e85669a3fc9ea9b5d692bd8bdcc2464df31",
+    "name": "Goldbank",
+    "symbol": "gb",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/goldbank/small.png",
+    "chainId": 42161,
+    "decimals": 18
   }
 ]

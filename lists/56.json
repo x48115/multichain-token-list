@@ -12870,6 +12870,15 @@
     "decimals": 18
   },
   {
+    "id": "bitzipp",
+    "address": "0xb49988a9ecbf0455b3b43fff7e64960d8399ccb8",
+    "name": "BitZipp",
+    "symbol": "bzp",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/bitzipp/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
     "id": "biblecoin",
     "address": "0xdd041e030ade3db3b2221ce681b65f9650f250d7",
     "name": "Biblecoin",
@@ -22050,6 +22059,15 @@
     "decimals": 18
   },
   {
+    "id": "dollarback",
+    "address": "0xf2caabf67f99d3ac5d0a4529722cfb874c9b35bf",
+    "name": "DollarBack",
+    "symbol": "back",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dollarback/small.png",
+    "chainId": 56,
+    "decimals": 9
+  },
+  {
     "id": "eversafu",
     "address": "0x40ed092304dbae1bcf1858eb24e1b14141126acb",
     "name": "EverSAFU",
@@ -30092,6 +30110,15 @@
     "name": "YearnTogether",
     "symbol": "yearn",
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/yearntogether/small.png",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "id": "dewae",
+    "address": "0x6c13a45101bd70561daf6186da86d7bdb018754f",
+    "name": "Dewae",
+    "symbol": "dewae",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/dewae/small.png",
     "chainId": 56,
     "decimals": 18
   }

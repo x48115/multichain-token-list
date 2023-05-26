@@ -36529,5 +36529,32 @@
     "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/union-finance/small.png",
     "chainId": 1,
     "decimals": 18
+  },
+  {
+    "id": "beep-coin",
+    "address": "0x9a0df129e798438a8ad995368bd82baa7eee8913",
+    "name": "BEEP Coin",
+    "symbol": "beep",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/beep-coin/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "fanta",
+    "address": "0x5adebafbf2fd0d6808a7a1e823759de2df1df39e",
+    "name": "FANTA",
+    "symbol": "fanta",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/fanta/small.png",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "id": "the-reaper-coin",
+    "address": "0xbe9385116fbbff5fdbaea0b52c3003b92be7f81c",
+    "name": "The Reaper Coin",
+    "symbol": "reaper",
+    "logoURI": "https://raw.githubusercontent.com/x48115/token-list/main/icons/the-reaper-coin/small.png",
+    "chainId": 1,
+    "decimals": 18
   }
 ]
